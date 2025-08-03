@@ -24,6 +24,8 @@ All contributors are required to respect our [Code of Conduct](./CODE_OF_CONDUCT
 
 ## Syllabus
 
+<div id="syllabus" markdown="1">
+
 1.  [Introduction](./01_intro/): what this training does and doesn't cover.
 1.  [How to Run a Meeting](./02_meeting/): the first and most important skill.
 1.  [Goals, Strategies, and Tactics](./03_gst/): deciding what to do and how to do it.
@@ -31,12 +33,28 @@ All contributors are required to respect our [Code of Conduct](./CODE_OF_CONDUCT
 1.  [Starting](./05_start/): where and how to begin
 1.  [Finishing](./06_finish/): closing the deal and what happens afterward
 
+</div>
+
 ##  Appendices
+
+<div id="appendices" markdown="1">
 
 1.  [License](./LICENSE.md)
 1.  [Code of Conduct](./CODE_OF_CONDUCT.md)
 1.  [Bibliography](./bibliography.md)
 1.  [Glossary](./glossary.md)
+
+</div>
+
+<p class="center">
+  <em>
+    Start where you are
+    <br/>
+    Use what you have
+    <br/>
+    Help who you can
+  </em>
+</p>
 
 [email]: mailto:gvwilson@third-bit.com
 [repo]: https://github.com/gvwilson/change
