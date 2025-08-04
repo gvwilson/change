@@ -48,11 +48,11 @@ All contributors are required to respect our [Code of Conduct](./CODE_OF_CONDUCT
 
 <p class="center">
   <em>
-    Start where you are
-    <br/>
-    Use what you have
-    <br/>
-    Help who you can
+    start where you are
+    &middot;
+    use what you have
+    &middot;
+    help who you can
   </em>
 </p>
 
