@@ -1,5 +1,8 @@
 # Glossary
 
+<span id="cognitive-dissonance">cognitive dissonance</span>
+:   The psychological discomfort caused by holding mutually exclusive beliefs.
+
 <span id="community-practice">community of practice</span>
 :   A group of people who share a common interest
     and learn from each other through frequent interaction.
@@ -49,6 +52,14 @@
 <span id="salami-slicing">salami slicing</span>
 :   The practice of dividing a finding into multiple small reports
     in order to inflate someone's publication count.
+
+<span id="situated-cognition-theory">situated cognition theory</span>
+:   The theory that knowledge is inseparable from the context in which it is learned.
+
+<span id="social-contact-theory">social contact theory</span>
+:   The theory that positive social interactions between members of different groups
+    can reduce prejudice,
+    particularly in the presence of equal status and shared goals.
 
 <span id="strategy">strategy</span>
 :   A long-term plan to achieve a goal.

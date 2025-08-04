@@ -33,6 +33,32 @@
 
 </section>
 
+## Changing Minds
+
+-   Debate usually doesn't change minds [[SteinLubrano2025](b:SteinLubrano2025)]
+    -   Most people choose most of their beliefs based on group identity
+    -   Believe things (or ignore contradictions) to reduce [cognitive dissonance](g:cognitive-dissonance)
+-   Instead, take advantage of friendships and other trusting relationships
+    -   [Social contact theory](g:social-contact-theory):
+        positive social interactions between members of different groups reduces prejudice,
+        particularly in the presence of equal status and shared goals
+-   And use action to shape belief
+    -   [Situated cognition theory](g:situated-cognition-theory):
+        people who show up for fundraisers or protests are more likely to adopt those groups' beliefs
+-   *Don't* rely on social media
+    -   Low activation cost means low commitment [[Tufekci2018](b:Tufekci2018)]
+    -   Creates bubbles
+
+<section class="exercise">
+
+### Exercise
+
+1.  Describe an online group you have been part of that *didn't* accomplish its goals.
+1.  Describe something important that you have changed your mind about in the last ten years
+    (i.e., fill in the sentence, "I used to think… and now I think…").
+
+</section>
+
 ## Dealing with Resistance
 
 -   Formalize the role of skeptic

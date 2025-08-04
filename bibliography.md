@@ -92,3 +92,17 @@
     Yale University Press,
     2020,
     978-0300246759.
+
+<span id="SteinLubrano2025">Stein Lubrano 2025</span>
+:   Sarah Stein Lubrano:
+    *Don't Talk About Politics: How to Change 21st-Century Minds*.
+    Bloomsbury Continuum,
+    2025,
+    978-1399413923.
+
+<span id="Tufekci2018">Tufekci 2018</span>
+:   Zeynep Tufekci:
+    *Twitter and Tear Gas: The Power and Fragility of Networked Protest*.
+    Yale University Press,
+    2018,
+    97800274756650.
