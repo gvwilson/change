@@ -49,7 +49,7 @@
     -   Low activation cost means low commitment [[Tufekci2018](b:Tufekci2018)]
     -   Creates bubbles
 
-<section class="exercise">
+<section class="exercise" markdown="1">
 
 ### Exercise
 

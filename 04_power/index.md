@@ -41,7 +41,7 @@
 
 <section class="exercise" markdown="1">
 
-## Exercise
+### Exercise
 
 1.  Pick a small but desirable change in your local environment.
 1.  In a group, create a power map.

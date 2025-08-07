@@ -8,7 +8,6 @@ HTML_IGNORES = 'Attribute "x-' 'Attribute "@click' 'Attribute "file"'
 build:
 	mccole build
 	@touch docs/.nojekyll
-	@cp CNAME docs
 
 ## commands: show available commands (*)
 commands:
