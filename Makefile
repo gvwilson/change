@@ -37,4 +37,4 @@ serve:
 
 ## spelling: check for unknown words
 spelling:
-	@cat *.md */*.md | aspell list | sort | uniq | diff - words.txt
+	@cat *.md */*.md | aspell list | sort | uniq | diff - extras/words.txt

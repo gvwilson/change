@@ -46,6 +46,9 @@
 <span id="positive-liberty">positive liberty</span>
 :   The possibility of acting, i.e., "freedom to".
 
+<span id="psychological-safety">psychological safety</span>
+:   The belief that members of a group will not be punished for expressing their ideas.
+
 <span id="real-selectorate">real selectorate</span>
 :   Those people in a group who actually attempt to influence a decision.
 

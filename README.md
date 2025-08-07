@@ -44,6 +44,7 @@ All contributors are required to respect our [Code of Conduct](./CODE_OF_CONDUCT
 1.  [Contributing](./CONTRIBUTING.md)
 1.  [Bibliography](./bibliography/)
 1.  [Glossary](./glossary/)
+1.  [Bonus Material](./bonus/)
 
 </div>
 
