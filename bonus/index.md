@@ -7,7 +7,7 @@
 -   Crisis forces prioritization
     -   Limited resources force people to focus what's truly essential
     -   But definitions of "essential" are often tied to group identity rather than organizational purpose
--   [Psychological safety](g:psychological-safey) decreases
+-   [Psychological safety](g:psychological-safety) decreases
     -   Fear and uncertainty make people more risk-averse and less likely to speak up about concerns
 -   Patterns of resistance change
     -   Pre-existing power structures are disrupted by crisis conditions
