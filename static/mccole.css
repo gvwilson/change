@@ -50,6 +50,13 @@
 .col-11 { flex-basis: 91.66%; }
 .col-12 { flex-basis: 100%; }
 
+/* Responsive breakpoints */
+@media (max-width: 768px) {
+    .row > * {
+        flex-basis: 100% !important;
+    }
+}
+
 /* Dropdown menu */
 
 .dropdown {
@@ -115,8 +122,8 @@ blockquote {
     border-left: solid var(--len-thick) var(--color-decorate);
     margin-left: 0px;
     padding-left: var(--len-half);
-    padding-top: var(--len-thick);
-    padding-bottom: var(--len-thick);
+    padding-top: var(--len-half);
+    padding-bottom: var(--len-half);
     margin-top: var(--len-thick);
     margin-bottom: var(--len-thick);
     background-color: var(--color-highlight);
@@ -129,6 +136,8 @@ body {
     max-width: var(--len-page);
     background-color: var(--color-page);
     margin: auto;
+    padding-left: var(--len-half);
+    padding-right: var(--len-half);
 }
 
 /* Code text */
@@ -141,7 +150,7 @@ div.card {
     box-shadow: 0px var(--len-thick) var(--len-thick-double) 0px rgba(0,0,0,0.2);
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
-    border: solid var(--color-background) var(--len-thick);
+    border: solid var(--color-decorate) var(--len-thick);
     display: flex;
     flex-direction: column;
     position: relative;
@@ -230,8 +239,10 @@ ul {
 /* Exercise blocks */
 section.exercise {
     background-color: #f1f1f1;
-    padding-left: 1em;
-    padding-right: 0.8em;
+    padding-left: var(--len-one);
+    padding-right: var(--len-half);
+    padding-top: var(--len-half);
+    padding-bottom: var(--len-half);
 }
 section.exercise h3 {
     font-size: 1.5em;
