@@ -14,12 +14,16 @@
     -   Even (or especially) if the official purpose of their visit is something else
 -   If all else fails, settle for a trial run
 
-> *Don't* whisper in the director's ear.
-> It might work in the short run,
-> but people will resent it,
-> and will either sabotage your implementation,
-> be less likely to support you in future,
-> or start using the tactic themselves.
+<div class="callout" markdown="1">
+
+*Don't* whisper in the director's ear.
+It might work in the short run,
+but people will resent it,
+and will either sabotage your implementation,
+be less likely to support you in future,
+or start using the tactic themselves.
+
+</div>
 
 <section class="exercise" markdown="1">
 

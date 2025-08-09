@@ -17,11 +17,15 @@
     -   Most people neither support nor oppose most innovations
     -   Most changes eventually languish even if they aren't officially abandoned
 
-> There are other frameworks for thinking about organizational change.
-> For example, the one presented in [[Heath2010](b:Heath2010)]
-> analyzes it in terms of the conflict between our rational side,
-> our emotional side,
-> and our circumstances.
+<div class="callout" markdown="1">
+
+There are other frameworks for thinking about organizational change.
+For example, the one presented in [[Heath2010](b:Heath2010)]
+analyzes it in terms of the conflict between our rational side,
+our emotional side,
+and our circumstances.
+
+</div>
 
 <section class="exercise" markdown="1">
 
@@ -50,12 +54,16 @@ Analyze one recent attempt to change your organization in terms of the five step
     -   Remember, most innovations languish or are met with [passive resistance](g:passive-resistance)
         [[Scott1987](b:Scott1987)]
 
-> Avoid premature commitment to metrics,
-> and more importantly,
-> to target values for those metrics.
-> It is more useful to agree on
-> who will be responsible for evaluating the success of the change,
-> which can also be a way to make someone an ally.
+<div class="callout" markdown="1">
+
+Avoid premature commitment to metrics,
+and more importantly,
+to target values for those metrics.
+It is more useful to agree on
+who will be responsible for evaluating the success of the change,
+which can also be a way to make someone an ally.
+
+</div>
 
 <section class="exercise" markdown="1">
 

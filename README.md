@@ -18,9 +18,9 @@ All contributors are required to respect our [Code of Conduct](./CODE_OF_CONDUCT
 -   Sabina doesn't mind public speaking,
     but finds face-to-face conflict very stressful.
 
-> This workshop teaches Sabina the basics of organizational change,
-> while the exercises help her figure out what changes she wants
-> and how to achieve them.
+This workshop teaches Sabina the basics of organizational change,
+while the exercises help her figure out what changes she wants
+and how to achieve them.
 
 ## Syllabus
 

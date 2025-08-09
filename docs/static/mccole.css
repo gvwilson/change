@@ -4,7 +4,7 @@
 
 /* Definitions */
 :root {
-    --color-decorate: #203080;
+    --color-decorate: #808080;
     --color-highlight: #f0f0f8;
     --color-page: #f8f8f8;
     --color-link-unvisited: #0066ff;
@@ -13,13 +13,14 @@
     --font-prose: "Atkinson Hyperlegible", Arial, sans-serif;
     --font-code: "Source Code Pro", "Courier New", monospace;
 
-    --len-thick: 4px;
-    --len-thick-double: 8px;
-    --len-thin: 1px;
+    --len-dropdown: 200px;
     --len-half: 0.5rem;
     --len-one: 1rem;
     --len-page: 60rem;
-    --len-dropdown: 200px;
+    --len-quarter: 0.25rem;
+    --len-thick-double: 8px;
+    --len-thick: 4px;
+    --len-thin: 1px;
 
     --size-prose: 1.2rem;
     --size-code: 1.1rem;
@@ -236,13 +237,24 @@ ul {
   list-style-type: disc;
 }
 
+/* Callouts */
+div.callout {
+    background-color: #f1f1f1;
+    font-style: italic;
+}
+div.callout > p {
+    padding: var(--len-thick);
+}
+
 /* Exercise blocks */
 section.exercise {
     background-color: #f1f1f1;
     padding-left: var(--len-one);
     padding-right: var(--len-half);
     padding-top: var(--len-half);
-    padding-bottom: var(--len-half);
+    margin-bottom: var(--len-half);
+    border: solid var(--len-thick) var(--color-decorate);
+    border-radius: var(--len-thick);
 }
 section.exercise h3 {
     font-size: 1.5em;

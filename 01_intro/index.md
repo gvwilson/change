@@ -9,10 +9,14 @@
 -   Exercises can be done individually but many work better in small groups (3-4 people)
     -   We will do some exercises asynchronously if we run short of time
 
-> Sessions are not recorded,
-> and we request that you do not share notes or exercise results
-> with people who did not take part
-> without the prior, explicit permission of all attendees.
+<div class="callout" markdown="1">
+
+Sessions are not recorded,
+and we request that you do not share notes or exercise results
+with people who did not take part
+without the prior, explicit permission of all attendees.
+
+</div>
 
 ## Not Covered
 
