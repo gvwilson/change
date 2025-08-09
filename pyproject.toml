@@ -8,4 +8,4 @@ dependencies = [
 ]
 
 [tool.mccole]
-skips = ["extras", "uv.lock"]
+skips = ["extras/**", "uv.lock"]
