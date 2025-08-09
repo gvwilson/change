@@ -27,9 +27,7 @@ links:
 
 ## lint: check code and project
 lint:
-	@mccole lint
-	@html5validator --root docs --blacklist templates --ignore ${HTML_IGNORES} \
-	&& echo "HTML checks passed."
+	@mccole lint --html
 
 ## serve: serve generated HTML
 serve:
