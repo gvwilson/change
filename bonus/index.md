@@ -60,7 +60,7 @@
     good people too.
 
 3)  Appeal to the greater good.
-:   If you open by talking about what's in it for them, you are signalling that they
+:   If you open by talking about what's in it for them, you are signaling that they
     should think of their interaction with you as a commercial exchange of value to
     be bargained over.  Instead, start by explaining how whatever you want them to
     help with is going to make the world a better place, and *mean it*.  (If what
