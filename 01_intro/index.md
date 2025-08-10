@@ -2,7 +2,10 @@
 
 <p class="subtitle" markdown="1">what this training does and doesn't cover</p>
 
--   "Most people would rather fail than change." - Robert Wilson
+> Most people would rather fail than change.
+>
+> — Robert Wilson
+
 -   But change *does* happen, follows patterns, and can be guided
 -   This workshop introduces a few basic ideas and tools
 -   Assumes discussion and action are safe in your environment
