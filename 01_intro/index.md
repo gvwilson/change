@@ -34,14 +34,3 @@ without the prior, explicit permission of all attendees.
     -   If we were serious about open science,
         we would train cohorts of candidates to run for the boards of our professional societies
     -   And school boards and city councils and…
-
-## Acknowledgments {: #acknowledgments}
-
--   [The Carpentries][carpentries]
--   [Kate Hertweck][hertweck-kate]
--   Toby Hodges
--   [Greg Wilson][wilson-greg]
-
-[carpentries]: https://carpentries.org
-[hertweck-kate]: https://katehertweck.com
-[wilson-greg]: https://third-bit.com

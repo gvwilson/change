@@ -41,15 +41,14 @@
 <h1>Contributing</h1>
 <p>Contributions are very welcome;
 please contact us <a href="mailto:gvwilson@third-bit.com">by email</a> or by filing an issue in <a href="https://github.com/gvwilson/change">our repository</a>.
-All contributors must abide by our <a href="../conduct/">Code of Conduct</a>.</p>
+All contributors must abide by our Code of Conduct.</p>
 <h2>Setup and Operation</h2>
 <ul>
 <li>Install <a href="https://github.com/astral-sh/uv">uv</a>.</li>
-<li>Create a virtual environment by running <code>uv venv --python 3.12</code> in the root directory.</li>
+<li>Create a virtual environment by running <code>uv venv</code> in the root directory.</li>
 <li>Activate it by running <code>source .venv/bin/activate</code> in your shell.</li>
 <li>Install dependencies by running <code>uv sync</code>.</li>
-<li>This project uses <a href="https://pypi.org/project/mccole/">McCole</a> to generate HTML and check the project's structure</li>
-<li>Run <code>make</code> on its own to see a list of common commands</li>
+<li>Run <code>make</code> on its own to see a list of common commands.</li>
 </ul>
 <table>
 <thead>
@@ -83,6 +82,10 @@ All contributors must abide by our <a href="../conduct/">Code of Conduct</a>.</p
 <td>serve</td>
 <td>serve generated HTML</td>
 </tr>
+<tr>
+<td>spelling</td>
+<td>check for unknown words</td>
+</tr>
 </tbody>
 </table>
 <h2>Structure</h2>
@@ -94,39 +97,45 @@ All contributors must abide by our <a href="../conduct/">Code of Conduct</a>.</p
 </ul>
 </li>
 <li>Diagrams should be SVG files created with <a href="https://www.drawio.com/">draw.io</a></li>
-<li><code>bibliography.md</code> has the bibliography as a definition list<ul>
+<li><code>bibliography/index.md</code> has the bibliography as a definition list<ul>
 <li>Citation keys have IDs for linking</li>
 <li>Use an inline HTML link <code>b:key</code> in files to create links</li>
 </ul>
 </li>
-<li><code>glossary.md</code> has the glossary as definition list<ul>
+<li><code>glossary/index.md</code> has the glossary as definition list<ul>
 <li>Reference keys have IDs for linking</li>
 <li>Use an inline HTML link <code>g:key</code> in files to create links</li>
 </ul>
 </li>
 <li>The <code>static</code> directory contains static files</li>
 <li>The <code>templates</code> directory contains <a href="https://jinja.palletsprojects.com/">Jinja</a> templates used to generate HTML<ul>
-<li><code>page.html</code>: template for website pages</li>
+<li><code>page.html</code> is used for website pages</li>
 </ul>
 </li>
 </ul>
 <h2>FAQ</h2>
 <dl>
-<dt>Do you need any help?</dt>
+<dt>Do you need help?</dt>
 <dd>Yes—please see the issues in <a href="https://github.com/gvwilson/change">our repository</a>.</dd>
 <dt>What sort of feedback would be useful?</dt>
 <dd>Everything is welcome,
-from pointing out mistakes in the code to suggestions for better explanations.</dd>
+from pointing out mistakes to suggestions for better explanations.</dd>
 <dt>Can I add a new section?</dt>
-<dd>Absolutely, but please <a href="mailto:gvwilson@third-bit.com">reach out</a> before doing so.</dd>
-<dt>Why is this material free to read?</dt>
+<dd>Possibly, but please <a href="mailto:gvwilson@third-bit.com">reach out</a> before doing so.</dd>
+<dt>Why is this material free?</dt>
 <dd>Because if we all give a little, we all get a lot.</dd>
 </dl>
 <h2><a id="contributors">Contributors</a></h2>
 <ul>
-<li><a href="https://third-bit.com/"><em>Greg Wilson</em></a> is a programmer, author, and educator based in Toronto.
+<li>
+<p><a href="https://tbyhdgs.info/"><em>Toby Hodges</em></a> s a bioinformatician turned community coordinator based in Heidelberg, Germany.
+    He is currently Director of Curriculum at <a href="https://carpentries.org/">The Carpentries</a>.</p>
+</li>
+<li>
+<p><a href="https://third-bit.com/"><em>Greg Wilson</em></a> is a programmer, author, and educator based in Toronto, Canada.
     He was the co-founder and first Executive Director of Software Carpentry
-    and received ACM SIGSOFT's Influential Educator Award in 2020.</li>
+    and received ACM SIGSOFT's Influential Educator Award in 2020.</p>
+</li>
 </ul>
 </main>
 <footer>
