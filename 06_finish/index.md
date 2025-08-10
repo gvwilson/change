@@ -2,6 +2,16 @@
 
 <p class="subtitle" markdown="1">closing the deal and what happens afterward</p>
 
+## The 'P' Word
+
+-   "Politics" shouldn't be a dirty word
+    -   "We are all marching together toward a glorious future" is untrue
+    -   "We're all duplicitous, self-serving bastards" is also untrue
+-   Politics is how we make decisions in groups in the absence of agreement on goals [Wendorff2022](b:Wendorff2022)
+    -   We have the same facts, but we interpret or weigh them differently
+    -   More explanation isn't going to help
+    -   So we must find other ways to form a winning coalition
+
 ## Making It Real
 
 -   It's possible for everyone to agree that your idea is great and implement it right away
@@ -12,6 +22,7 @@
     -   But avoid making extra work for people during a crunch
 -   Bring in noteworthy outsiders who support your plan
     -   Even (or especially) if the official purpose of their visit is something else
+-   Become the person with the authority to make this decision
 -   If all else fails, settle for a trial run
 
 <div class="callout" markdown="1">

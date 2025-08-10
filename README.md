@@ -30,8 +30,9 @@ and how to achieve them.
 1.  [How to Run a Meeting](./02_meeting/): the first and most important skill.
 1.  [Goals, Strategies, and Tactics](./03_gst/): deciding what to do and how to do it.
 1.  [Power](./04_power/): figuring out who has it and how to influence them.
-1.  [Starting](./05_start/): where and how to begin
-1.  [Finishing](./06_finish/): closing the deal and what happens afterward
+1.  [Starting](./05_start/): where and how to begin.
+1.  [Finishing](./06_finish/): closing the deal and what happens afterward.
+1.  [Conclusion](./07_finale/): a few more tips and a modest proposal.
 
 </div>
 

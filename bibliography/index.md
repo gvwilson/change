@@ -106,3 +106,10 @@
     Yale University Press,
     2018,
     97800274756650.
+
+<span id="Wendorff2022">Wendorff 2022</span>
+:   Peter Wendorff:
+    *Politics in Software Development: Navigating Stakeholder Power and Conflict in Organizations*.
+    Apress,
+    2022,
+    978-1484273791.
