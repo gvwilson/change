@@ -56,10 +56,10 @@ Why is this material free?
 
 ## <a id="contributors">Contributors</a>
 
--   [*Toby Hodges*][hodges-toby] s a bioinformatician turned community coordinator based in Heidelberg, Germany.
+-   *[Toby Hodges][hodges-toby]* s a bioinformatician turned community coordinator based in Heidelberg, Germany.
     He is currently Director of Curriculum at [The Carpentries][carpentries].
 
--   [*Greg Wilson*][wilson-greg] is a programmer, author, and educator based in Toronto, Canada.
+-   *[Greg Wilson][wilson-greg]* is a programmer, author, and educator based in Toronto, Canada.
     He was the co-founder and first Executive Director of Software Carpentry
     and received ACM SIGSOFT's Influential Educator Award in 2020.
 
