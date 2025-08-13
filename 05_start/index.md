@@ -24,6 +24,9 @@ For example, the one presented in [[Heath2010](b:Heath2010)]
 analyzes it in terms of the conflict between our rational side,
 our emotional side,
 and our circumstances.
+Its three key points are to describe a coherent destination,
+appeal to emotion to motivate people,
+and map out a clear path.
 
 </div>
 
