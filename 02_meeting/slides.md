@@ -1,24 +1,24 @@
 <header class="caption">
   <h1>Meetings</h1>
+  <p>the most important skill in any group activity</p>
 </header>
 
 <section class="slide" id="cover" markdown="1">
 
--   The most important skill in any group activity
+## Overview
+
+-   Most people are really bad at meetings
+    -   Because they've never been taught how
+-   A core skill for anyone who wants change
+    -   And can help you steer other people's meetings…
+-   You Don't Have to Invent This Yourself
+    -   <https://www.askamanager.org/>
 
 </section>
 
 <section class="slide" markdown="1">
 
-## You Don't Have to Invent This Yourself
-
-<https://www.askamanager.org/>
-
-</section>
-
-<section class="slide" markdown="1">
-
-## Does there need to be a meeting?
+## Do We Need a Meeting?
 
 -   To review and give feedback? No—do it asynchronously
 -   To inform? Only if you are expecting deep questions
