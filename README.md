@@ -68,7 +68,7 @@ and how to achieve them.
   </em>
 </p>
 
-[email]: mailto:gvwilson@third-bit.com
+[carpentries]: https://carpentries.org
 [repo]: https://github.com/gvwilson/change
 [hodges-toby]: https://tbyhdgs.info/
 [wilson-greg]: https://third-bit.com/

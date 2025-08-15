@@ -54,10 +54,8 @@ Can I add a new section?
 Why is this material free?
 :   Because if we all give a little, we all get a lot.
 
-[carpentries]: https://carpentries.org/
 [draw-io]: https://www.drawio.com/
 [email]: mailto:gvwilson@third-bit.com
 [jinja]: https://jinja.palletsprojects.com/
-[mccole]: https://pypi.org/project/mccole/
 [repo]: https://github.com/gvwilson/change
 [uv]: https://github.com/astral-sh/uv
