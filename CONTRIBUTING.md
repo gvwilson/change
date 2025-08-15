@@ -54,21 +54,10 @@ Can I add a new section?
 Why is this material free?
 :   Because if we all give a little, we all get a lot.
 
-## <a id="contributors">Contributors</a>
-
--   *[Toby Hodges][hodges-toby]* s a bioinformatician turned community coordinator based in Heidelberg, Germany.
-    He is currently Director of Curriculum at [The Carpentries][carpentries].
-
--   *[Greg Wilson][wilson-greg]* is a programmer, author, and educator based in Toronto, Canada.
-    He was the co-founder and first Executive Director of Software Carpentry
-    and received ACM SIGSOFT's Influential Educator Award in 2020.
-
 [carpentries]: https://carpentries.org/
 [draw-io]: https://www.drawio.com/
 [email]: mailto:gvwilson@third-bit.com
-[hodges-toby]: https://tbyhdgs.info/
 [jinja]: https://jinja.palletsprojects.com/
 [mccole]: https://pypi.org/project/mccole/
 [repo]: https://github.com/gvwilson/change
 [uv]: https://github.com/astral-sh/uv
-[wilson-greg]: https://third-bit.com/
