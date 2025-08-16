@@ -1,4 +1,4 @@
-# Meetings
+# How to Run a Meeting
 
 <p class="subtitle" markdown="1">the first and most important skill</p>
 
