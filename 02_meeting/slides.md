@@ -160,7 +160,7 @@
 -   Raise hands digitally
 
 > I'll Slack you a link to the Google sheet
-> that will tell you which GitHub repos's wiki
+> that will tell you which GitHub repo's wiki
 > we're using to track mailing lists.
 
 </section>
