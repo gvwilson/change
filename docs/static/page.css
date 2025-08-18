@@ -15,6 +15,7 @@
 
     --len-dropdown: 200px;
     --len-half: 0.5rem;
+    --len-line-height: 1.4; /* instead of standard 1.2 */
     --len-one: 1rem;
     --len-page: 60rem;
     --len-quarter: 0.25rem;
@@ -135,6 +136,7 @@ blockquote {
 body {
     font-family: var(--font-prose);
     font-size: var(--size-prose);
+    line-height: var(--len-line-height);
     max-width: var(--len-page);
     background-color: var(--color-page);
     margin: auto;
