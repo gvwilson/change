@@ -125,8 +125,8 @@ blockquote {
     border-left: solid var(--len-thick) var(--color-decorate);
     margin-left: 0px;
     padding-left: var(--len-half);
-    padding-top: var(--len-half);
-    padding-bottom: var(--len-half);
+    padding-top: 0;
+    padding-bottom: 0;
     margin-top: var(--len-thick);
     margin-bottom: var(--len-thick);
     background-color: var(--color-highlight);
@@ -264,6 +264,10 @@ section.exercise h3 {
 }
 
 /* Definitions */
+
+dt:not(:first-child) {
+    margin-top: var(--len-quarter);
+}
 
 dt {
     font-weight: bold;

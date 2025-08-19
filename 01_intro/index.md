@@ -21,6 +21,13 @@ without the prior, explicit permission of all attendees.
 
 </div>
 
+## Prerequisites
+
+-   [How to run a meeting](@/meetings/)
+-   Patience
+    -   [Society of Research Software Engineering][uk-rse] was years in the making
+    -   But has normalized RSE careers in the UK and worldwide
+
 ## Not Covered
 
 -   Community building
@@ -34,3 +41,5 @@ without the prior, explicit permission of all attendees.
     -   If we were serious about open science,
         we would train cohorts of candidates to run for the boards of our professional societies
     -   And school boards and city councils and…
+
+[uk-rse]: https://society-rse.org/about/history/

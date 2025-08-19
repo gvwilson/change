@@ -27,12 +27,11 @@ and how to achieve them.
 <div id="syllabus" markdown="1">
 
 1.  [Introduction](./01_intro/): what this training does and doesn't cover.
-1.  [How to Run a Meeting](./02_meeting/): the first and most important skill.
-1.  [Goals, Strategies, and Tactics](./03_gst/): deciding what to do and how to do it.
-1.  [Power](./04_power/): figuring out who has it and how to influence them.
-1.  [Starting](./05_start/): where and how to begin.
-1.  [Finishing](./06_finish/): closing the deal and what happens afterward.
-1.  [Conclusion](./07_finale/): a few more tips and a modest proposal.
+1.  [Goals, Strategies, and Tactics](./02_gst/): deciding what to do and how to do it.
+1.  [Power](./03_power/): figuring out who has it and how to influence them.
+1.  [Starting](./04_start/): where and how to begin.
+1.  [Finishing](./05_finish/): closing the deal and what happens afterward.
+1.  [Conclusion](./06_finale/): a few more tips and a modest proposal.
 
 </div>
 
@@ -45,6 +44,7 @@ and how to achieve them.
 1.  [Contributing](./CONTRIBUTING.md)
 1.  [Bibliography](./bibliography/)
 1.  [Glossary](./glossary/)
+1.  [How to Run a Meeting](./meetings/)
 1.  [Bonus Material](./bonus/)
 
 </div>
@@ -57,6 +57,8 @@ and how to achieve them.
 -   *[Greg Wilson][wilson-greg]* is a programmer, author, and educator based in Toronto, Canada.
     He was the co-founder and first Executive Director of Software Carpentry
     and received ACM SIGSOFT's Influential Educator Award in 2020.
+
+-   Thanks to Kate Hertweck and AJ Lauer for feedback.
 
 <p class="center">
   <em>

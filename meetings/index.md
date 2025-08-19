@@ -11,13 +11,18 @@ or recite banalities simply so that they'll have said something,
 and they hold side conversations
 (which pretty much guarantees that the meeting will be a waste of time).
 Knowing how to run a meeting efficiently is a core skill for anyone who wants to get things done.
-(Knowing how to take part in someone else's meeting is just as important,
+The most important rules for making meetings efficient are not secret,
+but are rarely followed.
+
+<div class="callout" markdown="1">
+
+Knowing how to take part in someone else's meeting is just as important,
 but gets far less attention:
 as a colleague once said,
 everyone offers leadership training,
-nobody offers followership training.)
-The most important rules for making meetings efficient are not secret,
-but are rarely followed.
+nobody offers followership training.
+
+</div>
 
 ## Decide if there actually needs to be a meeting
 
