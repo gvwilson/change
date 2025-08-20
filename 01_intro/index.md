@@ -41,5 +41,3 @@ without the prior, explicit permission of all attendees.
     -   If we were serious about open science,
         we would train cohorts of candidates to run for the boards of our professional societies
     -   And school boards and city councils and…
-
-[uk-rse]: https://society-rse.org/about/history/

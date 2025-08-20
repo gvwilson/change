@@ -75,6 +75,3 @@ for consideration by the promotion committee.
 1.  What have you learned in your current role that qualifies as *techne*? As *metis*?
 
 </section>
-
-[berlin-isaiah]: https://en.wikipedia.org/wiki/Isaiah_Berlin
-[berlin-liberty]: https://en.wikipedia.org/wiki/Two_Concepts_of_Liberty

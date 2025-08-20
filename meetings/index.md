@@ -208,6 +208,3 @@ If more than half a dozen people are involved in decision-making,
 consider adopting [Martha's Rules][marthas-rules].
 If you think you need [Robert's Rules of Order][roberts-rules],
 you should probably get some formal training.
-
-[marthas-rules]: https://journals.sagepub.com/doi/10.1177/088610998600100206
-[roberts-rules]: https://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order

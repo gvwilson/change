@@ -1,3 +1,4 @@
+AJ
 Apress
 berlin
 bioinformatician
@@ -6,11 +7,13 @@ callout
 carpentries
 greg
 henderson
+Hertweck
 hodges
 html
 img
 isaiah
 jinja
+Lauer
 Lubrano
 marthas
 middot
@@ -22,12 +25,15 @@ repo's
 roadmap
 roberts
 rollouts
+rse
+RSE
 skeezy
 SteinLubrano
 Structurelessness
 svg
 toby
 Tufekci
+uk
 venv
 Wendorff
 wilson
