@@ -58,7 +58,7 @@ and how to achieve them.
     He was the co-founder and first Executive Director of Software Carpentry
     and received ACM SIGSOFT's Influential Educator Award in 2020.
 
--   Thanks to Kate Hertweck and AJ Lauer for feedback.
+-   Thanks to Ben Cotton, Kate Hertweck, AJ Lauer, and Esther Plomp for feedback.
 
 <p class="center">
   <em>
