@@ -1,4 +1,4 @@
-# Organizational&nbsp;Change for&nbsp;Open&nbsp;Science
+# Organizational Change for Open Science
 
 This workshop is a short introduction to organization change
 for people with backgrounds in research.
@@ -22,9 +22,9 @@ This workshop teaches Sabina the basics of organizational change,
 while the exercises help her figure out what changes she wants
 and how to achieve them.
 
-## Syllabus
+## Lessons
 
-<div id="syllabus" markdown="1">
+<div id="lessons" markdown="1">
 
 1.  [Introduction](./01_intro/): what this training does and doesn't cover.
 1.  [Goals, Strategies, and Tactics](./02_gst/): deciding what to do and how to do it.

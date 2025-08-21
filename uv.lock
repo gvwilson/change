@@ -182,7 +182,7 @@ wheels = [
 
 [[package]]
 name = "mccole"
-version = "0.8.1"
+version = "0.9.2"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "beautifulsoup4" },
@@ -191,9 +191,9 @@ dependencies = [
     { name = "markdown" },
     { name = "tomli" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/39/45/17c8dd0287da7731bda6a14087e3cf557b01eadb82d7fb17feaa8bf62434/mccole-0.8.1.tar.gz", hash = "sha256:7017ad972e9fefdf337adba81b1da6df5c0f71032c385bc438d421571f820f16", size = 47527 }
+sdist = { url = "https://files.pythonhosted.org/packages/27/a5/d7f688dba64c62eb8013c5377639d1ca64071ef829342d4471583a8f6292/mccole-0.9.2.tar.gz", hash = "sha256:b41116b90d9480d096c90f4ee64a814456bc9baedbe822fe91db0a302eefb826", size = 48396 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/76/53/2b5fe04f82b33a586b4c0a0ae8b099ca25428cd32b2313190361477f9c4f/mccole-0.8.1-py3-none-any.whl", hash = "sha256:121adde6a6f8fff402e44a2cc7c884777ce48f41c9f83c9dbc7dc288f1618432", size = 44961 },
+    { url = "https://files.pythonhosted.org/packages/9d/89/a7503897b1e41a460f75dfcf000565c29c8b80af420f1a91885008bce79d/mccole-0.9.2-py3-none-any.whl", hash = "sha256:0d1f0267ac407a08d90af75d8f85f9677aa9ed516e738b7a9886dd5b32e0ff13", size = 45613 },
 ]
 
 [[package]]
@@ -224,7 +224,7 @@ wheels = [
 
 [[package]]
 name = "requests"
-version = "2.32.4"
+version = "2.32.5"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "certifi" },
@@ -232,9 +232,9 @@ dependencies = [
     { name = "idna" },
     { name = "urllib3" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/e1/0a/929373653770d8a0d7ea76c37de6e41f11eb07559b103b1c02cafb3f7cf8/requests-2.32.4.tar.gz", hash = "sha256:27d0316682c8a29834d3264820024b62a36942083d52caf2f14c0591336d3422", size = 135258 }
+sdist = { url = "https://files.pythonhosted.org/packages/c9/74/b3ff8e6c8446842c3f5c837e9c3dfcfe2018ea6ecef224c710c85ef728f4/requests-2.32.5.tar.gz", hash = "sha256:dbba0bac56e100853db0ea71b82b4dfd5fe2bf6d3754a8893c3af500cec7d7cf", size = 134517 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/7c/e4/56027c4a6b4ae70ca9de302488c5ca95ad4a39e190093d6c1a8ace08341b/requests-2.32.4-py3-none-any.whl", hash = "sha256:27babd3cda2a6d50b30443204ee89830707d396671944c998b5975b031ac2b2c", size = 64847 },
+    { url = "https://files.pythonhosted.org/packages/1e/db/4254e3eabe8020b458f1a747140d32277ec7a271daf1d235b70dc0b4e6e3/requests-2.32.5-py3-none-any.whl", hash = "sha256:2462f94637a34fd532264295e186976db0f5d453d1cdd31473c85a6a161affb6", size = 64738 },
 ]
 
 [[package]]
