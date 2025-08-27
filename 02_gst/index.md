@@ -12,7 +12,7 @@
     -   "Give researchers credit in performance reviews for creating open-access data sets"
 -   Over time, people often confuse strategies with goals
     -   Open science isn't the goal: fairness, reliability, and efficiency are
--   Tactics may conflict with or contradict each other
+-   ...and focus too narrowly on the tactics, losing sight of how they conflict with or contradict each other within the overall strategy
     -   Giving researchers credit for sharing data incentivizes [salami slicing](g:salami-slicing)
         and the proliferation of useless data sets
 
