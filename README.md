@@ -27,12 +27,12 @@ and how to achieve them.
 
 <div id="lessons" markdown="1">
 
-1.  [Introduction](./01_intro/): what this training does and doesn't cover.
-1.  [Goals, Strategies, and Tactics](./02_gst/): deciding what to do and how to do it.
-1.  [Power](./03_power/): figuring out who has it and how to influence them.
-1.  [Starting](./04_start/): where and how to begin.
-1.  [Finishing](./05_finish/): closing the deal and what happens afterward.
-1.  [Conclusion](./06_finale/): a few more tips and a modest proposal.
+1.  [Introduction](./intro/): what this training does and doesn't cover.
+1.  [Goals, Strategies, and Tactics](./gst/): deciding what to do and how to do it.
+1.  [Power](./power/): figuring out who has it and how to influence them.
+1.  [Starting](./starting/): where and how to begin.
+1.  [Finishing](./finishing/): closing the deal and what happens afterward.
+1.  [Conclusion](./finale/): a few more tips and a modest proposal.
 
 </div>
 
