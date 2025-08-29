@@ -117,10 +117,14 @@ the person in charge ought to.
 
 ## Record minutes
 
-Someone other than the chair should take point-form notes about
+Someone other than the chair should take point-form minutes recording
 the most important pieces of information that were shared,
 every decision that was made,
 and every task that was assigned to someone.
+These are brief and semi-formal:
+
+> - Susan proposed group order salad for lunch
+> - Group voted against (for: Susan, Bill; against: Marco, Yuna, Feng)
 
 ## Take notes
 

@@ -24,6 +24,9 @@
 <span id="guru">guru</span>
 :   A person whose expertise in some domain is widely recognized and respected.
 
+<span id="implementation-science">implementation science</span>
+:   The study of strategies that promote adoption of evidence-based practices in health care.
+
 <span id="innovation-diffusion">innovation-diffusion model</span>
 :   A theory which proposes that innovations spread primarily through social networks.
 

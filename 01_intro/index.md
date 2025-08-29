@@ -8,9 +8,11 @@
 
 -   But change *does* happen, follows patterns, and can be guided
 -   This workshop introduces a few basic ideas and tools
+    for getting an organization to make a lasting change to its goals and/or the way it operates
 -   Assumes discussion and action are safe in your environment
--   Exercises can be done individually but many work better in small groups (3-4 people)
-    -   We will do some exercises asynchronously if we run short of time
+-   Exercises can be done individually but work better in small groups (3-4 people)
+-   Also work better if done synchronously
+    -   But may be done asynchronously if a workshop runs out of time
 
 <div class="callout" markdown="1">
 

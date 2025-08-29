@@ -38,3 +38,7 @@ serve:
 ## spelling: check for unknown words
 spelling:
 	@cat *.md */*.md | aspell list | sort | uniq | diff - extras/words.txt
+
+## untab: remove tabs in Markdown files
+untab:
+	@find . -name '*.md' -type f -exec sh -c 'expand -t 8 "$$1" > "$$1.tmp" && mv "$$1.tmp" "$$1"' _ {} \;

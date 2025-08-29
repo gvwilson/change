@@ -43,9 +43,10 @@ for consideration by the promotion committee.
 
 ### Exercise
 
-1.  Which of these options are you most comfortable with?
 1.  How can you translate the tactics described for that option
     from teaching to your problem domain?
+1.  Which of these options do you think will work best in your environment?
+    Which are you most comfortable with?
 
 </section>
 
@@ -75,3 +76,13 @@ for consideration by the promotion committee.
 1.  What have you learned in your current role that qualifies as *techne*? As *metis*?
 
 </section>
+
+## Sabina's Goals and Strategy
+
+-   Sabina's goal is to enable people to devote working hours to open source projects and DEI initiatives
+-   She doesn't believe there is support for making either mandatory,
+    so her strategy is to have both added to the performance review guidelines at her company
+    as things that people can get credit for
+-   Sabina therefore fits in the *Prescribed* - *Environments & Structures* quadrant
+    of Borrego and Henderson's classification
+-   Her next step is to pick tactics

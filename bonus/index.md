@@ -1,5 +1,10 @@
 # Bonus Material
 
+-   [[](b:Kent2022)] focuses on what early-career researchers can do
+    to improve research culture and practice
+-   [[](b:Bauer2015), [](b:Bauer2020)] introduce [implementation science](g:implementation-science),
+    which looks at how to change society as a whole
+
 ## Change in a Time of Crisis {: #crisis}
 
 -   Crisis creates urgency

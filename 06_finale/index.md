@@ -5,8 +5,7 @@
 ## Things We Didn't Cover
 
 -   [Change in a time of crisis](../bonus/#crisis)
-    -   The K-T Event gave mammals their chance…
-    -   …but was bad news for the dinosaurs
+    -   The K-T Event gave mammals their chance, but was bad news for the dinosaurs
 -   [Fatigue and burnout](../bonus/#burnout)
     -   Watch for early warning signs
     -   Don't be ashamed to ask for help
@@ -16,7 +15,7 @@
 
 ## A Modest Proposal
 
--   Start by creating a workshop on [succession planning](https://gvwilson.github.io/succession/)
+-   Help create a workshop on [succession and shutdown](https://gvwilson.github.io/sunset/)
     -   Timely
     -   A chance to get to know each other
     -   A low-risk way to practice skills you will need for bigger challenges

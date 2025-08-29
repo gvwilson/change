@@ -43,7 +43,7 @@ Analyze one recent attempt to change your organization in terms of the five step
 
 ## What to Do First
 
--   Use existing social ties
+-   *Use existing social ties*
     -   Successful movements are built on pre-existing relationships [[Beckerman2022](b:Beckerman2022)]
     -   If people you trust tell you to give up or change direction, *do it*
 -   Start with *something small*
@@ -72,7 +72,8 @@ which can also be a way to make someone an ally.
 
 ### Exercise
 
-1.  Individually, make a list of three organizational changes that would satisfy the criteria above.
+1.  Individually, make a list of three organizational changes
+    that would satisfy the four criteria above.
 1.  In a group, compare your list with those of of your colleagues.
     -   What potential changes did several of you identify?
     -   Why *didn't* they include all of yours?
@@ -104,3 +105,23 @@ which can also be a way to make someone an ally.
     -   Why *didn't* they include all of yours?
 
 </section>
+
+## Sabina's Starting Point
+
+-   Sabina knows the other data analysts well, so will recruit some of them first
+    -   "Some of them" because the libertarian won't be useful
+        and she needs a plausible way to leave him out for now
+-   She gets along well with the Director of IT,
+    who will generally support anything that improves the quality of scientists' code
+    -   He doesn't care as strongly about DEI as Sabina, but is generally supportive
+-   Collect and share anecdotes to show that contributing to open source software projects
+    can be a way for junior staff to improve their skills
+-   Use this to institute Friday afternoon hackathons
+    -   Participation isn't mandatory,
+        but is tracked and taken into consideration in performance reviews
+-   Organize orientation and training for junior staff on how to contribute
+    -   "Here's how to use GitHub" (run by the Director of IT)
+    -   "Here's a refresher on intellectual property"
+        (run by one of the Chief Counsel's underlings)
+    -   "Here's the [Code of Conduct](@/conduct/) that most open source projects use"
+        (which starts discussion of DEI issues)

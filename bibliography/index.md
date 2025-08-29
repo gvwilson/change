@@ -7,6 +7,21 @@
     1989,
     978-0679721130.
 
+<span id="Bauer2015">Bauer et al 2015</cite>
+:   Mark S. Bauer, Laura Damschroder, Hildi Hagedorn, Jeffrey Smith, and Amy M. Kilbourne:
+    "An Introduction to Implementation Science for the Non-Specialist"
+    *BMC Psychology*,
+    3(1),
+    2015,
+    10.1186/s40359-015-0089-9.
+
+<span id="Bauer2020">Bauer & Kirchner 2020</cite>
+:   Mark S. Bauer and JoAnn Kirchner:
+    "Implementation science: What is it and why should I care?"
+    *Psychiatry Research*,
+    283,
+    10.1016/j.psychres.2019.04.025.
+
 <span id="Beckerman2022">Beckerman 2022</span>
 :   Gal Beckerman:
     *The Quiet Before: On the Unexpected Origins of Radical Ideas*.
@@ -49,6 +64,13 @@
     Crown Business,
     2010,
     978-0385528757.
+
+<span id="Kent2022">Kent et al 2022</span>
+:   Brianne A. Kent et al:
+    "Recommendations for empowering early career researchers to improve research culture and practice"
+    *PLoS Biology*,
+    20(7),
+    10.1371/journal.pbio.3001680.
 
 <span id="Kuchner2011">Kuchner 2011</span>
 :   Marc J. Kuchner:
