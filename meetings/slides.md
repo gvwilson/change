@@ -55,7 +55,7 @@
 
 <section class="slide" markdown="1">
 
-## Have Clear Rules for Making Decisions
+## Clear Rules for Decisions
 
 -   (And for knowing what decisions have been made)
 -   "The Tyranny of Structurelessness" (Jo Freeman)
