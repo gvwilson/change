@@ -1,6 +1,6 @@
 # Organizational Change for Open Science
 
-This workshop is a short introduction to organization change
+This workshop is a short introduction to organizational change
 for people with backgrounds in research.
 All of the material is available under an [open license](./LICENSE.md),
 and contributions through our [repository][repo] are welcome.
