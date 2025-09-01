@@ -173,9 +173,10 @@ div.card > p {
 
 /* Footer */
 footer {
-    border-top: solid var(--color-decorate) var(--len-thin);
     margin-top: var(--len-half);
+    border-top: solid var(--color-decorate) var(--len-thin);
     padding-top: var(--len-half);
+    margin-bottom: var(--len-half);
     text-align: center;
 }
 
@@ -198,6 +199,7 @@ p.subtitle {
 
 /* Navigation */
 nav {
+    margin-top: var(--len-half);
     border-bottom: solid var(--color-decorate) var(--len-thin);
     margin-bottom: var(--len-half);
     padding-bottom: var(--len-half);
