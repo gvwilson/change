@@ -13,14 +13,16 @@
 -   [Persuading people](../bonus/#persuasion)
     -   "It is not enough to be right: one must be heard."
 
-## A Modest Proposal
+## Retrospective
 
--   Help create a workshop on [succession and shutdown](https://gvwilson.github.io/sunset/)
-    -   Timely
-    -   A chance to get to know each other
-    -   A low-risk way to practice skills you will need for bigger challenges
-    -   An opportunity to make friends with your elders
-    -   A service to your community
+-   Software Carpentry
+    -   Has helped tens of thousands of people over 15 years
+    -   But hasn't become a normal part of the curriculum
+        1.  "We will teach you to program so you can do better research faster"
+        2.  "We will teach you how to teach so you can help your colleagues do the same"
+        3.  "We will teach you how to organize so that you can make this normal"
+    -   In retrospect, should have made the third step explicit:
+    -   It's never too late…
 -   Whatever you decide:
     -   Start where you are
     -   Use what you have
