@@ -5,7 +5,7 @@
 ## Terminology
 
 -   A [goal](g:goal) is something you want to accomplish
-    -   "Make research fairer, more reliable, and more efficient."
+    -   "Make research fairer, more reliable, and more efficient"
 -   A [strategy](g:strategy) is a long-term plan to achieve that
     -   "Increase institutional and individual adoption of open science"
 -   A [tactic](g:tactic) is a specific action that fits into a larger strategic plan
@@ -65,7 +65,7 @@ for consideration by the promotion committee.
 -   Two kinds of knowledge [[Scott1998](b:Scott1998)]
     -   [*Techne*](g:techne) is hard-and-fast rules, often derived from first principles
     -   [*Metis*](g:metis) "can be acquired only by long practice at similar but rarely identical tasks
-        [and] requires constant adaptation to changing circumstances."
+        [and] requires constant adaptation to changing circumstances"
     -   Scientists and programmers want techne; organizational change requires metis
 
 <section class="exercise" markdown="1">

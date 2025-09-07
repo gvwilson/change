@@ -8,7 +8,7 @@
     -   "We are all marching together toward a glorious future" is untrue
     -   "We're all duplicitous, self-serving bastards" is also untrue
     -   "We have the same facts, but we interpret or weigh them differently" is usually more accurate
--   Politics is how we make decisions in groups in the absence of agreement on goals [Wendorff2022](b:Wendorff2022)
+-   Politics is how we make decisions in groups in the absence of agreement on goals [[Wendorff2022](b:Wendorff2022)]
     -   Explaining things yet again to people who disagree with us isn't going to change their minds
     -   And compromise isn't always possible
     -   So we must find ways to form a winning coalition
