@@ -43,6 +43,9 @@ Analyze one recent attempt to change your organization in terms of the five step
 
 ## What to Do First
 
+-   Find out *who has already tried what*
+    -   You may not be the first person to try to make this change
+    -   An honest retrospective is worth a cup of coffee
 -   *Use existing social ties*
     -   Successful movements are built on pre-existing relationships [[Beckerman2022](b:Beckerman2022)]
     -   If people you trust tell you to give up or change direction, *do it*
@@ -67,6 +70,16 @@ who will be responsible for evaluating the success of the change,
 which can also be a way to make someone an ally.
 
 </div>
+
+<section class="exercise" markdown="1">
+
+### Exercise
+
+1.  Why can it be harder to change an organization you have just joined
+    than one you have belonged to for a long time?
+1.  Why is it sometimes *easier* to change organizations you are new to?
+
+</section>
 
 <section class="exercise" markdown="1">
 

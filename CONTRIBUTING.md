@@ -67,4 +67,5 @@ Why is this material free?
 [email]: mailto:gvwilson@third-bit.com
 [jinja]: https://jinja.palletsprojects.com/
 [repo]: https://github.com/gvwilson/change
+[shower]: https://shwr.me/
 [uv]: https://github.com/astral-sh/uv
