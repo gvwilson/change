@@ -13,6 +13,19 @@
     -   And compromise isn't always possible
     -   So we must find ways to form a winning coalition
 
+<div class="callout" markdown="1">
+
+Whispering in the director's ear might work in the short run,
+but people will resent it,
+and will either sabotage your implementation,
+be less likely to support you in future,
+or start using the tactic themselves.
+Only do it if the director is trusted by people both above and below them,
+*and* you have a good relationship with them,
+*and* the changes aren't controversial.
+
+</div>
+
 ## Making It Real
 
 -   *Support other causes* in exchange for support for yours
@@ -30,14 +43,9 @@
 
 <div class="callout" markdown="1">
 
-Whispering in the director's ear might work in the short run,
-but people will resent it,
-and will either sabotage your implementation,
-be less likely to support you in future,
-or start using the tactic themselves.
-Only do it if the director is trusted by people both above and below them,
-*and* you have a good relationship with them,
-*and* the changes aren't controversial.
+Any new way of working initially slows people down.
+Acknowledging this makes you more credible,
+which in turn makes people more likely to stick with you through the dip.
 
 </div>
 
