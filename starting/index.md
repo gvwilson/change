@@ -48,7 +48,6 @@ Analyze one recent attempt to change your organization in terms of the five step
     -   An honest retrospective is worth a cup of coffee
 -   *Use existing social ties*
     -   Successful movements are built on pre-existing relationships [[Beckerman2022](b:Beckerman2022)]
-    -   If people you trust tell you to give up or change direction, *do it*
 -   Start with *something small*
     -   Less intimidating
     -   Gives you a chance to build skills and community
@@ -118,6 +117,15 @@ which can also be a way to make someone an ally.
     -   Why *didn't* they include all of yours?
 
 </section>
+
+## You Will Get Advice…
+
+-   If one person you trust tells you to give up or change direction, keep going
+-   If several people tell you, *listen to them*
+    -   If they are generally averse to change or risk, disagree and keep going
+    -   If their values are different from yours, disagree and keep going
+    -   Otherwise, a little humility might save you a lot of wasted effort
+-   Be sure to distinguish disagreement on goals vs. disagreement on strategy and tactics
 
 ## Sabina's Starting Point
 

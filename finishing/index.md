@@ -30,12 +30,14 @@
 
 <div class="callout" markdown="1">
 
-*Don't* whisper in the director's ear.
-It might work in the short run,
+Whispering in the director's ear might work in the short run,
 but people will resent it,
 and will either sabotage your implementation,
 be less likely to support you in future,
 or start using the tactic themselves.
+Only do it if the director is trusted by people both above and below them,
+*and* you have a good relationship with them,
+*and* the changes aren't controversial.
 
 </div>
 

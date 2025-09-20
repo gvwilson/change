@@ -57,7 +57,7 @@ and how to achieve them.
 -   *[Greg Wilson][wilson-greg]* is a programmer, author, and educator based in Toronto, Canada.
     He was the co-founder and first Executive Director of Software Carpentry
     and received ACM SIGSOFT's Influential Educator Award in 2020.
--   Thanks to Samantha Ahern, Ben Cotton, Kate Hertweck, AJ Lauer, Aleksandra Nenadic, and Esther Plomp for feedback.
+-   Thanks to Samantha Ahern, Ben Cotton, Jen Dodd, Kate Hertweck, AJ Lauer, Aleksandra Nenadic, and Esther Plomp for feedback.
 
 <p class="center">
   <em>
