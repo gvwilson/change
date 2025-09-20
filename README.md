@@ -52,7 +52,7 @@ and how to achieve them.
 
 ## Acknowledgments {: #acknowledgments}
 
--   *[Toby Hodges][hodges-toby]* s a bioinformatician turned community coordinator based in Heidelberg, Germany.
+-   *[Toby Hodges][hodges-toby]* is a bioinformatician turned community coordinator based in Heidelberg, Germany.
     He is currently Director of Curriculum at [The Carpentries][carpentries].
 -   *[Greg Wilson][wilson-greg]* is a programmer, author, and educator based in Toronto, Canada.
     He was the co-founder and first Executive Director of Software Carpentry

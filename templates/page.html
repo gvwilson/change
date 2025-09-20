@@ -34,9 +34,18 @@
 {{content}}
     </main>
     <footer>
-      <a href="@/">{{title}}</a>
-      copyright &copy; 2025
-      <a href="@/#acknowledgments">the authors</a>
+      <div class="row">
+	<div class="col-4 left">
+	  {% if prev_page %}<a href="{{prev_page.url}}">&larr; {{prev_page.title}}</a>{% endif %}
+	</div>
+	<div class="col-4 center">
+	  &copy; 2025
+	  <a href="@/#acknowledgments">the authors</a>
+	</div>
+	<div class="col-4 right">
+	  {% if next_page %}<a href="{{next_page.url}}">{{next_page.title}} &rarr;</a>{% endif %}
+	</div>
+      </div>
     </footer>
   </body>
 </html>
