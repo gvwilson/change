@@ -15,10 +15,10 @@ All contributors must abide by our Code of Conduct.
 | make task | effect                            |
 | --------- | ----------------------------------|
 | build     | render HTML pages                 |
+| check     | check structure and content       |
 | clean     | clean up                          |
 | commands  | show available commands (default) |
 | links     | check links in published site     |
-| lint      | check structure and content       |
 | serve     | serve generated HTML              |
 | spelling  | check for unknown words           |
 | untab     | remove tabs in Markdown files     |

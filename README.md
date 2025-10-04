@@ -2,9 +2,9 @@
 
 This workshop is a short introduction to organizational change
 for people with backgrounds in research.
-All of the material is available under an [open license](./LICENSE.md),
+All of the material is available under an [open license](@/license/),
 and contributions through our [repository][repo] are welcome.
-All contributors are required to respect our [Code of Conduct](./CODE_OF_CONDUCT.md).
+All contributors are required to respect our [Code of Conduct](@/conduct/).
 
 ## Learner Persona
 
@@ -27,12 +27,12 @@ and how to achieve them.
 
 <div id="lessons" markdown="1">
 
-1.  [Introduction](./intro/): what this training does and doesn't cover.
-1.  [Goals, Strategies, and Tactics](./gst/): deciding what to do and how to do it.
-1.  [Power](./power/): figuring out who has it and how to influence them.
-1.  [Starting](./starting/): where and how to begin.
-1.  [Finishing](./finishing/): closing the deal and what happens afterward.
-1.  [Conclusion](./finale/): a few more tips and a modest proposal.
+1.  [Introduction](@/intro/): what this training does and doesn't cover.
+1.  [Goals, Strategies, and Tactics](@/gst/): deciding what to do and how to do it.
+1.  [Power](@/power/): figuring out who has it and how to influence them.
+1.  [Starting](@/starting/): where and how to begin.
+1.  [Finishing](@/finishing/): closing the deal and what happens afterward.
+1.  [Conclusion](@/finale/): a few more tips and a modest proposal.
 
 </div>
 
@@ -40,13 +40,13 @@ and how to achieve them.
 
 <div id="appendices" markdown="1">
 
-1.  [License](./LICENSE.md)
-1.  [Code of Conduct](./CODE_OF_CONDUCT.md)
-1.  [Contributing](./CONTRIBUTING.md)
-1.  [Bibliography](./bibliography/)
-1.  [Glossary](./glossary/)
-1.  [How to Run a Meeting](./meetings/)
-1.  [Bonus Material](./bonus/)
+1.  [License](@/license/)
+1.  [Code of Conduct](@/conduct/)
+1.  [Contributing](@/contributing/)
+1.  [Bibliography](@/bibliography/)
+1.  [Glossary](@/glossary/)
+1.  [How to Run a Meeting](@/meetings/)
+1.  [Bonus Material](@/bonus/)
 
 </div>
 

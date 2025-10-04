@@ -15,8 +15,8 @@
       <span class="dropdown">
 	<a href="#">Lessons</a>
 	<span id="nav-lessons" class="dropdown-content">
-{% for key in lessons %}
-          <a href="{{key}}">{{lessons[key]}}</a>
+{% for slug, title in lessons %}
+          <a href="@/{{slug}}/">{{title}}</a>
 {% endfor %}
 	</span>
       </span>
@@ -24,8 +24,8 @@
       <span class="dropdown">
         <a href="#">Appendices</a>
         <span id="nav-appendices" class="dropdown-content">
-{% for key in appendices %}
-          <a href="{{key}}">{{appendices[key]}}</a>
+{% for slug, title in appendices %}
+          <a href="@/{{slug}}/">{{title}}</a>
 {% endfor %}
         </span>
       </span>
@@ -35,15 +35,16 @@
     </main>
     <footer>
       <div class="row">
-	<div class="col-4 left">
-	  {% if prev_page %}<a href="{{prev_page.url}}">&larr; {{prev_page.title}}</a>{% endif %}
+	<div class="col-3 left">
+	  {% if prev[0] %}&#8656; <a href="@/{{prev[0]}}/">{{prev[1]}}</a>{% endif %}
 	</div>
-	<div class="col-4 center">
+	<div class="col-6 center">
+	  <a href="@/">{{title}}</a>
 	  &copy; 2025
 	  <a href="@/#acknowledgments">the authors</a>
 	</div>
-	<div class="col-4 right">
-	  {% if next_page %}<a href="{{next_page.url}}">{{next_page.title}} &rarr;</a>{% endif %}
+	<div class="col-3 right">
+	  {% if next[0] %}<a href="@/{{next[0]}}/">{{next[1]}}</a> &#8658;{% endif %}
 	</div>
       </div>
     </footer>
