@@ -30,7 +30,7 @@
 
 <section class="exercise" markdown="1">
 
-### Exercise
+### Exercise: Retrospective
 
 1.  What is the single most useful, interesting, or surprising thing you learned in this workshop?
 1.  What was included that you don't think you will find useful?

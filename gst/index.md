@@ -18,7 +18,7 @@
 
 <section class="exercise" markdown="1">
 
-### Exercise
+### Exercise: Identify Goals, Strategies, and Tactics
 
 In order to discourage researchers from salami slicing their papers,
 your university has decreed that people can only submit one paper per year
@@ -41,12 +41,10 @@ for consideration by the promotion committee.
 
 <section class="exercise" markdown="1">
 
-### Exercise
+### Exercise: Choosing an Approach
 
-1.  How can you translate the tactics described for that option
-    from teaching to your problem domain?
 1.  Which of these options do you think will work best in your environment?
-    Which are you most comfortable with?
+1.  Which are you most comfortable with?
 
 </section>
 
@@ -63,14 +61,14 @@ for consideration by the promotion committee.
     -   Deny the conflict
     -   Try to formulate precise rules in advance
 -   Two kinds of knowledge [[Scott1998](b:Scott1998)]
-    -   [*Techne*](g:techne) is hard-and-fast rules, often derived from [first principles](g:first-principles)
+    -   [*Techne*](g:techne) is hard-and-fast rules, often derived from first principles
     -   [*Metis*](g:metis) "can be acquired only by long practice at similar but rarely identical tasks
         [and] requires constant adaptation to changing circumstances"
     -   Scientists and programmers want techne; organizational change requires metis
 
 <section class="exercise" markdown="1">
 
-### Exercise
+### Exercise: The Right Kind of Knowledge
 
 1.  Describe the last time you tried to apply *techne* when the situation required *metis*.
 1.  What have you learned in your current role that qualifies as *techne*? As *metis*?

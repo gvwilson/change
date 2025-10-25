@@ -19,7 +19,7 @@
 
 <section class="exercise" markdown="1">
 
-### Exercise
+### Exercise: Who's in Charge?
 
 1.  Who makes funding and work allocation decisions in your institution in theory?
 1.  Who do they need to keep happy, and how do they do this?
@@ -61,28 +61,26 @@ we owe it to those who fought to make our lives better to do the same.
 
 <section class="exercise" markdown="1">
 
-### Exercise
+### Exercise: Power Mapping
 
-1.  Pick a small but desirable change in your local environment.
-1.  In a group, create a power map.
-
-Alternatively, translate the description of Sabina's environment below into a power map.
+1.  Pick a small but desirable change in your local environment and create a power map for it.
+1.  Alternatively, translate the description of Sabina's environment below into a power map.
 
 </section>
 
 ## Sabina's Power Map
 
 -   The *VP of Human Resources* is generally supportive of DEI initiatives
-    but doesn't really understand open source and open science
+    but doesn't really understand open source and open science.
 -   The *VP of Research* thinks that
-    "all this diversity stuff" distracts people from "real work"
+    "all this diversity stuff" distracts people from "real work."
 -   The *Chief Counsel* worries about intellectual property loss
-    and the risk of violating data privacy regulations
+    and the risk of violating data privacy regulations.
 -   The *Director of IT* contributes to open source projects in their spare time,
-    but feels depressed whenever they think about the quality of most scientists' code
+    but feels depressed whenever they think about the quality of most scientists' code.
 -   The other two *senior data analysts* are both supporters of the [FAIR Principles][fair],
-    and believe that data analysis isn't valued as highly by the company as it should be
+    and believe that data analysis isn't valued as highly by the company as it should be.
 -   The *junior data analysts* on their teams are mostly concerned about
     meeting performance targets and polishing their CVs…
 -   …except for the one *self-professed libertarian* who believes that
-    white men are now victims of discrimination
+    white men are now victims of discrimination.

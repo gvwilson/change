@@ -5,9 +5,9 @@
 ## The 'P' Word
 
 -   "Politics" shouldn't be a dirty word
-    -   "We are all marching together toward a glorious future" is untrue
-    -   "We're all duplicitous, self-serving bastards" is also untrue
-    -   "We have the same facts, but we interpret or weigh them differently" is usually more accurate
+    -   Wrong: "We are all marching together toward a glorious future"
+    -   Also wrong: "We're all duplicitous, self-serving bastards"
+    -   Reality: "We have the same facts, but we interpret or weigh them differently"
 -   Politics is how we make decisions in groups in the absence of agreement on goals [[Wendorff2022](b:Wendorff2022)]
     -   Explaining things yet again to people who disagree with us isn't going to change their minds
     -   And compromise isn't always possible
@@ -26,7 +26,7 @@ Only do it if the director is trusted by people both above and below them,
 
 </div>
 
-## Making It Real
+## Closing the Deal
 
 -   *Support other causes* in exchange for support for yours
     -   As long as goals don't conflict and strategies don't undermine each other
@@ -34,11 +34,11 @@ Only do it if the director is trusted by people both above and below them,
     -   But avoid making extra work for people during a crunch
 -   *Bring in noteworthy outsiders* who support your plan
     -   Even (or especially) if the official purpose of their visit is something else
--   *Become the person with the authority* to make this decision
+-   *Become the decision owner*
     -   Be careful not to sacrifice your own career doing service work for others
     -   Unless you find that more rewarding than sequencing genomes
 -   Accept *half a victory* and then build on it
-    -   After all, two steps forward and one step back is still one step forward
+    -   Two steps forward and one step back is still one step forward
 -   If all else fails, settle for *a trial run*
 
 <div class="callout" markdown="1">
@@ -51,7 +51,7 @@ which in turn makes people more likely to stick with you through the dip.
 
 <section class="exercise" markdown="1">
 
-### Exercise
+### Exercise: Retrospective
 
 1.  In groups, discuss a change at your institution that ran out of steam before it was implemented.
     What went wrong?
@@ -79,9 +79,8 @@ which in turn makes people more likely to stick with you through the dip.
 
 <section class="exercise" markdown="1">
 
-### Exercise
+### Exercise: Changing Your Mind
 
-1.  Describe an online group you have been part of that *didn't* accomplish its goals.
 1.  Describe something important that you have changed your mind about in the last ten years
     (i.e., fill in the sentence, "I used to think… and now I think…").
 
@@ -93,19 +92,18 @@ which in turn makes people more likely to stick with you through the dip.
     -   Often improves your ideas
 -   Isolate those who are never going to agree
     -   Can be to their benefit as well
--   *Follow through*
+-   Plan to follow through
     -   Maintenance requires much more effort than construction
 
 <section class="exercise" markdown="1">
 
-### Exercise
+### Exercise: Inertia
 
-1.  In groups, discuss a change that failed after it was officially adopted.
-    What went wrong?
-1.  Describe a case in which people continued doing things the old way
-    after most of the organization moved to a new way.
-    Why was this permitted?
-    What were its benefits and drawbacks?
+Describe a case in which people continued doing things the old way
+after most of the organization moved to a new way.
+
+1.  Why was this permitted?
+1.  What were the benefits and drawbacks of allowing this?
 
 </section>
 
