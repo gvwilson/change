@@ -63,7 +63,7 @@ for consideration by the promotion committee.
     -   Deny the conflict
     -   Try to formulate precise rules in advance
 -   Two kinds of knowledge [[Scott1998](b:Scott1998)]
-    -   [*Techne*](g:techne) is hard-and-fast rules, often derived from first principles
+    -   [*Techne*](g:techne) is hard-and-fast rules, often derived from [first principles](g:first-principles)
     -   [*Metis*](g:metis) "can be acquired only by long practice at similar but rarely identical tasks
         [and] requires constant adaptation to changing circumstances"
     -   Scientists and programmers want techne; organizational change requires metis

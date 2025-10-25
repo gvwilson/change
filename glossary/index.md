@@ -18,6 +18,9 @@
 <span id="decision-owner">decision owner</span>
 :   A person with authority to make a final, binding decision on something.
 
+<span id="first-principles">first principles</span>
+:   Fundamental concepts or assumptions that can not be deduced or broken down into simpler concepts.
+
 <span id="goal">goal</span>
 :   Something that someone wants to accomplish.
 
@@ -74,7 +77,7 @@
 :   A specific action that supports a larger strategy.
 
 <span id="techne">techne</span>
-:   Inflexible but universal rules, often derived from first principles.
+:   Inflexible but universal rules, often derived from [first principles](g:first-principles).
 
 <span id="winning-coalition">winning coalition</span>
 :   Those people in a group who are on the winning side of decision.
