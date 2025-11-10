@@ -9,4 +9,4 @@ dependencies = [
 ]
 
 [tool.mccole]
-skips = ["*~", "extras/**", "uv.lock"]
+skips = ["*~", "*.pdf", "extras/**", "uv.lock"]
