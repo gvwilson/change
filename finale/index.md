@@ -13,6 +13,17 @@
 -   [Persuading people](../bonus/#persuasion)
     -   "It is not enough to be right: one must be heard."
 
+## What to Read Next
+
+<div class="row">
+  <div class="col-2"><img src="@/static/beckerman.jpg" alt="Beckerman: The Quiet Before"></div>
+  <div class="col-2"><img src="@/static/brookfield.jpg" alt="Brookfield and Preskill: The Discussion Book"></div>
+  <div class="col-2"><img src="@/static/brown.jpg" alt="Brown: Building Powerful Community Organizations"></div>
+  <div class="col-2"><img src="@/static/bueno.jpg" alt="Bueno de Mesquita: The Dictator's Handbook"></div>
+  <div class="col-2"><img src="@/static/lubrano.jpg" alt="Lubrano: Don't Talk About Politics"></div>
+  <div class="col-2"><img src="@/static/manns.jpg" alt="Manns and Rising: Fearless Change"></div>
+</div>
+
 ## Retrospective
 
 -   Software Carpentry
