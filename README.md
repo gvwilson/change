@@ -23,18 +23,24 @@ This workshop teaches Sabina the basics of organizational change,
 while the exercises help her figure out what changes she wants
 and how to achieve them.
 
+<div class="row" markdown="1">
+<div class="col-6" markdown="1">
+
 ## Lessons
 
 <div id="lessons" markdown="1">
 
-1.  [Introduction](@/intro/): what this training does and doesn't cover.
-1.  [Goals, Strategies, and Tactics](@/gst/): deciding what to do and how to do it.
-1.  [Power](@/power/): figuring out who has it and how to influence them.
-1.  [Starting](@/starting/): where and how to begin.
-1.  [Finishing](@/finishing/): closing the deal and what happens afterward.
-1.  [Conclusion](@/finale/): a few more tips and a modest proposal.
+1.  [Introduction](@/intro/)
+1.  [Goals, Strategies, and Tactics](@/gst/)
+1.  [Power](@/power/)
+1.  [Starting](@/starting/)
+1.  [Finishing](@/finishing/)
+1.  [Conclusion](@/finale/)
 
 </div>
+
+</div>
+<div class="col-6" markdown="1">
 
 ##  Appendices
 
@@ -48,6 +54,8 @@ and how to achieve them.
 1.  [How to Run a Meeting](@/meetings/)
 1.  [Bonus Material](@/bonus/)
 
+</div>
+</div>
 </div>
 
 ## Acknowledgments {: #acknowledgments}
