@@ -1,7 +1,5 @@
 # Runnable tasks.
 
-SLUG=change
-
 all: commands
 
 ## build: build HTML
@@ -20,10 +18,6 @@ clean:
 	@find . -type f -name '*~' -exec rm {} \;
 	@find . -type d -name __pycache__ | xargs rm -r
 	@find . -type d -name .ruff_cache | xargs rm -r
-
-## links: check links in published site
-links:
-	linkchecker -F text https://gvwilson.github.io/${SLUG}/
 
 ## check: check code and project
 check:
