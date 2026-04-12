@@ -1,12 +1,17 @@
 [project]
 name = "change"
 description = "organizational change for open science"
-version = "0.1.0"
-requires-python = ">=3.12"
+version = "0.3.0"
+requires-python = ">=3.13"
 dependencies = [
-    "linkchecker",
-    "mccole"
+    "mccole>=2.11.0"
 ]
 
 [tool.mccole]
-skips = ["*~", "*.pdf", "extras/**", "uv.lock"]
+skips = [
+    "*~",
+    "*.pdf",
+    "docs/**",
+    "extras/**",
+    "uv.lock"
+]

@@ -33,6 +33,10 @@
 {% endfor %}
         </ul>
       </div>
+      {% if book_repo %}
+      <span aria-hidden="true">&middot;</span>
+      <a href="{{ book_repo }}">Repository</a>
+      {% endif %}
     </nav>
     <main id="main-content">
 {% if title %}<h1>{{ title }}</h1>{% endif %}
