@@ -20,6 +20,7 @@ clean:
 ## check: check code and project
 check:
 	@mccole check --src . --dst docs
+	@typos *.md */*.md
 
 ## serve: serve generated HTML
 serve:
