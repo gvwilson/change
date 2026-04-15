@@ -1,4 +1,4 @@
-# Organizational Change for Open Science
+# Organizational Change
 
 This workshop is a short introduction to organizational change
 for people with backgrounds in research.
