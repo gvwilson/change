@@ -4,7 +4,7 @@ description = "organizational change for open science"
 version = "0.3.0"
 requires-python = ">=3.13"
 dependencies = [
-    "mccole>=2.11.0"
+    "mccole>=2.13.1"
 ]
 
 [tool.mccole]
@@ -12,6 +12,5 @@ skips = [
     "*~",
     "*.pdf",
     "docs/**",
-    "extras/**",
     "uv.lock"
 ]
