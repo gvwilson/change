@@ -12,27 +12,19 @@ All contributors must abide by our Code of Conduct.
 -   Install dependencies: `uv sync`.
 -   Run `make` on its own to see a list of common commands.
 
-| make task | effect                            |
-| --------- | ----------------------------------|
-| build     | render HTML pages                 |
-| check     | check structure and content       |
-| clean     | clean up                          |
-| commands  | show available commands (default) |
-| links     | check links in published site     |
-| serve     | serve generated HTML              |
-| spelling  | check for unknown words           |
-| untab     | remove tabs in Markdown files     |
+## Style and Structure
 
-## Structure
-
+-   Lessons are written in Markdown and compiled to HTML using the `mccole` static site generator.
+    -   Each lesson should take about an hour to work through.
 -   Lessons are in `slug` directories
     -   `slug` is short mnemonic
     -   Each lesson must have an `index.md` file containing its content
     -   And may also have a `slides.md` file with [Shower][shower] slides
 -   Use `@/some/path/` for internal links
     -   The leading `@` is translated into a relative reference to the project root
--   The Markdown link definitions in `extras/links.md` are appended to all Markdown files
+-   The Markdown link definitions in `_extras/links.md` are appended to all Markdown files
     -   This helps ensure consistent link URLs across pages
+-   Figures, code inclusions, citations, and glossary references are formatted using `mccole` shortcodes.
 -   The home page for the site is generated from `README.md`
     -   The navigation menus for lessons and appendices are generated from
         the `lessons` and `appendices` `div` elements in `README.md`
@@ -43,10 +35,8 @@ All contributors must abide by our Code of Conduct.
 -   `glossary/index.md` has the glossary as definition list
     -   Reference keys have IDs for linking
     -   Use an inline HTML link `g:key` in files to create links
--   The `static` directory contains CSS and JavaScript files
--   The `templates` directory contains [Jinja][jinja] templates used to generate HTML
-    -   `page.html` is used for website pages
-    -   `slides.html` is used for slideshows
+-   The `_static` directory contains CSS and JavaScript files
+-   The `_templates` directory contains [Jinja][jinja] templates used to generate HTML
 
 ## FAQ
 
