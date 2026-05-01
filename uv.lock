@@ -24,7 +24,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "mccole", specifier = ">=2.13.1" }]
+requires-dist = [{ name = "mccole", specifier = ">=2.15.0" }]
 
 [[package]]
 name = "html5validator"
@@ -110,7 +110,7 @@ wheels = [
 
 [[package]]
 name = "mccole"
-version = "2.14.0"
+version = "2.15.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "beautifulsoup4" },
@@ -121,9 +121,9 @@ dependencies = [
     { name = "python-frontmatter" },
     { name = "tomli" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/4e/31/00d8749deaa1ff0888e78c35b816920e479f3ced50ae2dccf6f3c62ca514/mccole-2.14.0.tar.gz", hash = "sha256:58c3b1de5647339c84d421b6b20ee0b64392b6e9219447042daa6dc5c774f1fd", size = 702202, upload-time = "2026-04-16T01:27:40.601Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/14/96/3ea0210e490f22a3582f9594d449746a70c36ea59321a7fa539c5dc87e99/mccole-2.15.0.tar.gz", hash = "sha256:7241a3e07e82ea3b6f787e299c854997393d530c0ae12e2b30f31a9da10b2886", size = 702757, upload-time = "2026-05-01T02:17:34.83Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/00/e7/2a48a1cbe0b34e5fce12eaa459cfd3cd94166b6c152ad497a9e22e0bd007/mccole-2.14.0-py3-none-any.whl", hash = "sha256:2523dbeefa28eada2ca6f4a23deac6508a604e2a5940b9bdc415dbe09db48d7e", size = 33334, upload-time = "2026-04-16T01:27:39.415Z" },
+    { url = "https://files.pythonhosted.org/packages/97/e4/2745cef523cb9be9a78bb63fbc90c11acdd4931f0798ed029b7d23798996/mccole-2.15.0-py3-none-any.whl", hash = "sha256:1b71d01efd71706bf99df1785e7dfc96d6a9cc2dc8bd373f6708402efbf3e1d0", size = 34144, upload-time = "2026-05-01T02:17:33.353Z" },
 ]
 
 [[package]]
