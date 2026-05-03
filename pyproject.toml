@@ -4,7 +4,7 @@ description = "organizational change for open science"
 version = "0.3.0"
 requires-python = ">=3.13"
 dependencies = [
-    "mccole>=2.15.0"
+    "mccole>=3.0.0"
 ]
 
 [tool.mccole]
