@@ -10,7 +10,7 @@ All contributors must abide by our Code of Conduct.
 -   Create a virtual environment: `uv venv`.
 -   Activate it: `source .venv/bin/activate`.
 -   Install dependencies: `uv sync`.
--   Run `make` on its own to see a list of common commands.
+-   Run `task --list` to see a list of common commands.
 
 ## Style and Structure
 
