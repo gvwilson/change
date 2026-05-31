@@ -123,7 +123,7 @@ wheels = [
 
 [[package]]
 name = "mccole"
-version = "4.5.2"
+version = "5.5.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "beautifulsoup4" },
@@ -134,9 +134,9 @@ dependencies = [
     { name = "python-frontmatter" },
     { name = "tomli" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/e0/46/00e877aa620b58960bc2ba84e37b8a895e01d53c6ed7032995bc5cc5ac38/mccole-4.5.2.tar.gz", hash = "sha256:d9ba7864e6698d7057a67996ab6b4bd0b531693d59f6f4e63a891524d658605a", size = 708728, upload-time = "2026-05-19T19:22:53.183Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/41/b6/09db16bb015641c17f629746c62160dae3a055bc297823b0a4a810bd030c/mccole-5.5.0.tar.gz", hash = "sha256:57eb61c1dd3f3b9da0bff99a393f6434f655db0b4ee8afd74042d1252776b784", size = 740497, upload-time = "2026-05-31T23:21:25.066Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/d9/11/1b38bd494be4a4ae4f59bd98ba0223ab1ea8d669698c157342ddf9b98394/mccole-4.5.2-py3-none-any.whl", hash = "sha256:3a25dbd4a7ee4d1161de0dad7cec50ccaed5c7e35b4de349b21efb91bafae696", size = 42650, upload-time = "2026-05-19T19:22:52.072Z" },
+    { url = "https://files.pythonhosted.org/packages/37/fd/cfee881dab49f30d298460d375540e5b401cbbd729047350aa9bc5e10741/mccole-5.5.0-py3-none-any.whl", hash = "sha256:ec94c4100bddec8ca1076678b283243da39cf119599084f27a969fbfe1303896", size = 51562, upload-time = "2026-05-31T23:21:23.874Z" },
 ]
 
 [[package]]
@@ -174,14 +174,14 @@ wheels = [
 
 [[package]]
 name = "python-frontmatter"
-version = "1.2.0"
+version = "1.3.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "pyyaml" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/e9/21/88aefb4f1de6661b5a003175e21e4a5ad94f5e52b2abf4170a11883c7d81/python_frontmatter-1.2.0.tar.gz", hash = "sha256:5b26ccd3cb85af77feb11d83b922c7bb5aeccb0c9d3fb236b938c600b6322984", size = 16890, upload-time = "2026-05-17T23:42:05.493Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/9d/e8/79cbe69864d44f3b48e70ebee0a872a7d5a4e7150c9f8577ed7a5beefff0/python_frontmatter-1.3.0.tar.gz", hash = "sha256:acc73e477a568dc2a25c9e130c6c68ae8daa8c204c8f7e813db47d6a7280dcf2", size = 8322, upload-time = "2026-05-20T19:21:44.164Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/1c/b1/ec12e3e746234006b77dec69d53878253b1da09dbb55fa3cb456083d9069/python_frontmatter-1.2.0-py3-none-any.whl", hash = "sha256:e1ee1d4300450a2f84e778eb4f70edf573da6cd7d463801066f05edc4e819c78", size = 10396, upload-time = "2026-05-17T23:42:04.637Z" },
+    { url = "https://files.pythonhosted.org/packages/a6/a3/17c284b4f4d8ad50f0f9ba70ad8fcc35c777aeafcdbbffdd91bbdc5ab379/python_frontmatter-1.3.0-py3-none-any.whl", hash = "sha256:9f7dd9260bec99044219159a329f64f039087f9d1a2124c9442556f2fe6f82ec", size = 10562, upload-time = "2026-05-20T19:21:43.323Z" },
 ]
 
 [[package]]
@@ -222,11 +222,11 @@ wheels = [
 
 [[package]]
 name = "soupsieve"
-version = "2.8.3"
+version = "2.8.4"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/7b/ae/2d9c981590ed9999a0d91755b47fc74f74de286b0f5cee14c9269041e6c4/soupsieve-2.8.3.tar.gz", hash = "sha256:3267f1eeea4251fb42728b6dfb746edc9acaffc4a45b27e19450b676586e8349", size = 118627, upload-time = "2026-01-20T04:27:02.457Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/47/2c/0a5f6f8ee0d5589e48c7640213ed5175d52cf540a06725b628cc1a45d6ce/soupsieve-2.8.4.tar.gz", hash = "sha256:e121fd02e975c695e4e9e8774a5ee35d74714b59307868dcc5319ad2d9e3328e", size = 121110, upload-time = "2026-05-24T13:55:57.154Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/46/2c/1462b1d0a634697ae9e55b3cecdcb64788e8b7d63f54d923fcd0bb140aed/soupsieve-2.8.3-py3-none-any.whl", hash = "sha256:ed64f2ba4eebeab06cc4962affce381647455978ffc1e36bb79a545b91f45a95", size = 37016, upload-time = "2026-01-20T04:27:01.012Z" },
+    { url = "https://files.pythonhosted.org/packages/5e/f5/0c41cb68dcae6b7de4fac4188a3a9589e21fb31df21ea3a2e888db95e6c9/soupsieve-2.8.4-py3-none-any.whl", hash = "sha256:e7e6b0769c8f51ed59acab6e994b00621096cfb1c640a7509295987388fbaf65", size = 37304, upload-time = "2026-05-24T13:55:55.406Z" },
 ]
 
 [[package]]
