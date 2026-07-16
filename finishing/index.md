@@ -74,8 +74,9 @@ which in turn makes people more likely to stick with you through the dip.
     -   [Situated cognition theory](g:situated-cognition-theory):
         people who show up for fundraisers or protests are more likely to adopt those groups' beliefs
 -   *Don't* rely on social media
-    -   Low activation cost means low commitment [[Tufekci2018](b:Tufekci2018)]
     -   Creates bubbles
+    -   Low activation cost means low commitment [[Tufekci2018](b:Tufekci2018)]
+    -   Doesn't give people a chance to learn who they can rely on [[Beckerman2022](b:Beckerman2022)]
 
 <section class="exercise" markdown="1">
 

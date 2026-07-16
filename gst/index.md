@@ -13,14 +13,12 @@
 -   Over time, people often confuse strategies with goals
     -   Open science isn't the goal: fairness, reliability, and efficiency are
 -   ...and focus too narrowly on the tactics, losing sight of how they conflict with or contradict each other within the overall strategy
-    -   Giving researchers credit for sharing data incentivizes [salami slicing](g:salami-slicing)
-        and the proliferation of useless data sets
 
 <section class="exercise" markdown="1">
 
 ### Exercise: Identify Goals, Strategies, and Tactics
 
-In order to discourage researchers from salami slicing their papers,
+In order to discourage researchers from [salami slicing](g:salami-slicing) their papers,
 your university has decreed that people can only submit one paper per year
 for consideration by the promotion committee.
 

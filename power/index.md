@@ -10,18 +10,19 @@
     -   [Nominal selectorate](g:nominal-selectorate): those who have the right to have a say
     -   [Real selectorate](g:real-selectorate): those who actually cast a vote
     -   [Winning coalition](g:winning-coalition): those whose votes produce victory
--   It is meant to be humorous—lab directors and funding officers aren't dictators—but their insights are widely applicable:
+-   Five rules:
     1.  The smaller the winning coalition, the fewer people the person in charge needs to satisfy to remain in control.
     1.  The larger the selectorate, the easier it is to replace dissenters.
     1.  Extract as much as you can without provoking rebellion or recession.
     1.  Give your essential supporters just enough rewards to keep them loyal.
     1.  Do not reward them too well or they will become a threat.
+-   Lab directors and funding officers aren't actually dictators, but…
 
 <section class="exercise" markdown="1">
 
 ### Exercise: Who's in Charge?
 
-1.  Who makes funding and work allocation decisions in your institution in theory?
+1.  Who actually makes funding and work allocation decisions in your institution?
 1.  Who do they need to keep happy, and how do they do this?
 
 </section>
