@@ -1,0 +1,40 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Organizational Change"
+  author: "Greg Wilson"
+  repo-url: "https://github.com/gvwilson/change"
+  repo-actions: [edit, source, issue]
+  chapters:
+    - index.qmd
+    - intro/index.qmd
+    - gst/index.qmd
+    - power/index.qmd
+    - starting/index.qmd
+    - finishing/index.qmd
+    - finale/index.qmd
+  appendices:
+    - license/index.qmd
+    - conduct/index.qmd
+    - contributing/index.qmd
+    - bibliography/index.qmd
+    - glossary/index.qmd
+    - meetings/index.qmd
+    - bonus/index.qmd
+
+bibliography: bibliography/references.bib
+csl: bibliography/apa.csl
+
+filters:
+  - bin/links.lua
+
+shortcodes:
+  - bin/g.lua
+  - bin/inc-noh1.lua
+
+format:
+  html:
+    theme: cosmo
+    toc: true

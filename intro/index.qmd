@@ -1,0 +1,46 @@
+---
+subtitle: "what this training does and doesn't cover"
+---
+# Introduction
+
+> Most people would rather fail than change.
+>
+> — Robert Wilson
+
+-   But change *does* happen, follows patterns, and can be guided
+-   This workshop introduces a few basic ideas and tools
+    for getting an organization to make a lasting change to its goals and/or the way it operates
+-   Assumes discussion and action are safe in your environment
+-   Exercises can be done individually but work better in small groups (3-4 people)
+-   Also work better if done synchronously
+    -   But may be done asynchronously if a workshop runs out of time
+
+:::: {.callout-note}
+
+Sessions are not recorded,
+and we request that you do not share notes or exercise results
+with people who did not take part
+without the prior, explicit permission of all attendees.
+
+::::
+
+## Prerequisites
+
+-   [How to run a meeting](../meetings/index.qmd)
+-   Patience
+    -   [Society of Research Software Engineering][uk-rse] was years in the making
+    -   But has normalized RSE careers in the UK and worldwide
+
+## Not Covered
+
+-   Community building
+    -   Lots of good guides, including [@Alinsky1989;@Brown2007;@Brown2007;@Lakey2018]
+    -   Important to distinguish {{<g community-practice "community of practice" >}}
+        from {{<g community-purpose "community of purpose" >}}
+-   Communication skills
+    -   Change won't happen unless someone can write and speak convincingly
+    -   See [@Kuchner2011] for some useful insights
+-   Electoral politics
+    -   If we were serious about open science,
+        we would train cohorts of candidates to run for the boards of our professional societies
+    -   And school boards and city councils and…
