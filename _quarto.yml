@@ -35,6 +35,7 @@ shortcodes:
 
 format:
   html:
+    css: assets/mccole.css
+    link-citations: true
     theme: cosmo
     toc: true
-    css: assets/mccole.css
