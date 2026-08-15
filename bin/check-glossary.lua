@@ -23,7 +23,7 @@ utils.program = "check-glossary.lua"
 local function read_glossary_file(path)
   local order = {}
   local set = {}
-  for key in (utils.read_file(path)):gmatch('<span id="([%w-]+)">') do
+  for key in (utils.read_file(path)):gmatch('<span id="([%w_-]+)">') do
     order[#order + 1] = key
     set[key] = true
   end
@@ -32,7 +32,7 @@ end
 
 -- Records every glossary key referenced by a "g" shortcode in content.
 local function add_used_keys(content, path, set, files)
-  for key in content:gmatch("{{<%s*g%s+([%w-]+)") do
+  for key in content:gmatch("{{<%s*g%s+([%w_-]+)") do
     set[key] = true
     files[key] = files[key] or {}
     files[key][path] = true
