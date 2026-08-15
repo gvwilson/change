@@ -24,11 +24,24 @@ without the prior, explicit permission of all attendees.
 
 ::::
 
+## Learner Persona
+
+-   Sabina, 28, has a master's degree in animal physiology
+    and now works as a data analyst for a mid-sized pharmaceutical company.
+-   She takes open access publishing and open source software for granted,
+    but has never been involved in politics or advocacy beyond signing a few online petitions.
+-   Sabina's company doesn't have a policy on staff contributing to open source projects,
+    and the head of her department occasionally grumbles about
+    "all this diversity stuff" distracting people from "real work".
+    She wants unambiguous permission for the former and official company support for the latter.
+-   Sabina doesn't mind public speaking,
+    but finds face-to-face conflict very stressful.
+
 ## Prerequisites
 
 -   [How to run a meeting](../meetings/index.qmd)
 -   Patience
-    -   [Society of Research Software Engineering][uk-rse] was years in the making
+    -   [Society of Research Software Engineering](@uk-rse) was years in the making
     -   But has normalized RSE careers in the UK and worldwide
 
 ## Not Covered

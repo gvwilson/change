@@ -4,19 +4,9 @@
     "href": "index.html",
     "title": "Organizational Change",
     "section": "",
-    "text": "0.1 Learner Persona\nThis workshop is a short introduction to organizational change for people with backgrounds in research. All of the material is available under an open license, and contributions through our repository are welcome. All contributors are required to respect our Code of Conduct.\nThis workshop teaches Sabina the basics of organizational change, while the exercises help her figure out what changes she wants and how to achieve them.",
+    "text": "This workshop is a short introduction to organizational change for people with backgrounds in research. All of the material is available under an open license, and contributions through our repository are welcome. All contributors are required to respect our Code of Conduct.\nGreg Wilson is a programmer, author, and educator based in Toronto. He was the co-founder and first Executive Director of Software Carpentry and received ACM SIGSOFT’s Influential Educator Award in 2020.\n\n start where you are · use what you have · help who you can",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Learner Persona</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#learner-persona",
-    "href": "index.html#learner-persona",
-    "title": "Organizational Change",
-    "section": "",
-    "text": "Sabina, 28, has a master’s degree in animal physiology and now works as a data analyst for a mid-sized pharmaceutical company.\nShe takes open access publishing and open source software for granted, but has never been involved in politics or advocacy beyond signing a few online petitions.\nSabina’s company doesn’t have a policy on staff contributing to open source projects, and the head of her department occasionally grumbles about “all this diversity stuff” distracting people from “real work”. She wants unambiguous permission for the former and official company support for the latter.\nSabina doesn’t mind public speaking, but finds face-to-face conflict very stressful.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Learner Persona</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Organizational Change</span>"
     ]
   },
   {
@@ -24,7 +14,17 @@
     "href": "intro/index.html",
     "title": "2  Introduction",
     "section": "",
-    "text": "2.1 Prerequisites",
+    "text": "2.1 Learner Persona",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro/index.html#learner-persona",
+    "href": "intro/index.html#learner-persona",
+    "title": "2  Introduction",
+    "section": "",
+    "text": "Sabina, 28, has a master’s degree in animal physiology and now works as a data analyst for a mid-sized pharmaceutical company.\nShe takes open access publishing and open source software for granted, but has never been involved in politics or advocacy beyond signing a few online petitions.\nSabina’s company doesn’t have a policy on staff contributing to open source projects, and the head of her department occasionally grumbles about “all this diversity stuff” distracting people from “real work”. She wants unambiguous permission for the former and official company support for the latter.\nSabina doesn’t mind public speaking, but finds face-to-face conflict very stressful.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -33,8 +33,8 @@
     "objectID": "intro/index.html#prerequisites",
     "href": "intro/index.html#prerequisites",
     "title": "2  Introduction",
-    "section": "",
-    "text": "How to run a meeting\nPatience\n\n[Society of Research Software Engineering][uk-rse] was years in the making\nBut has normalized RSE careers in the UK and worldwide",
+    "section": "2.2 Prerequisites",
+    "text": "2.2 Prerequisites\n\nHow to run a meeting\nPatience\n\nSociety of Research Software Engineering was years in the making\nBut has normalized RSE careers in the UK and worldwide",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -43,8 +43,8 @@
     "objectID": "intro/index.html#not-covered",
     "href": "intro/index.html#not-covered",
     "title": "2  Introduction",
-    "section": "2.2 Not Covered",
-    "text": "2.2 Not Covered\n\nCommunity building\n\nLots of good guides, including (Alinsky, 1989; Brown, 2007, 2007; Lakey, 2018)\nImportant to distinguish community of practice from community of purpose\n\nCommunication skills\n\nChange won’t happen unless someone can write and speak convincingly\nSee (Kuchner, 2011) for some useful insights\n\nElectoral politics\n\nIf we were serious about open science, we would train cohorts of candidates to run for the boards of our professional societies\nAnd school boards and city councils and…\n\n\n\n\n\n\nAlinsky, S. D. (1989). Rules for Radicals: A Practical Primer for Realistic Radicals. Vintage.\n\n\nBrown, M. J. (2007). Building Powerful Community Organizations. Long Haul Press.\n\n\nKuchner, M. J. (2011). Marketing for Scientists: How to Shine in Tough Times. Island Press.\n\n\nLakey, G. (2018). How We Win: A Guide to Nonviolent Direct Action Campaigning. Melville House.",
+    "section": "2.3 Not Covered",
+    "text": "2.3 Not Covered\n\nCommunity building\n\nLots of good guides, including (Alinsky, 1989; Brown, 2007, 2007; Lakey, 2018)\nImportant to distinguish community of practice from community of purpose\n\nCommunication skills\n\nChange won’t happen unless someone can write and speak convincingly\nSee (Kuchner, 2011) for some useful insights\n\nElectoral politics\n\nIf we were serious about open science, we would train cohorts of candidates to run for the boards of our professional societies\nAnd school boards and city councils and…\n\n\n\n\n\n\nAlinsky, S. D. (1989). Rules for Radicals: A Practical Primer for Realistic Radicals. Vintage.\n\n\nBrown, M. J. (2007). Building Powerful Community Organizations. Long Haul Press.\n\n\nKuchner, M. J. (2011). Marketing for Scientists: How to Shine in Tough Times. Island Press.\n\n\nLakey, G. (2018). How We Win: A Guide to Nonviolent Direct Action Campaigning. Melville House.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -84,7 +84,7 @@
     "href": "gst/index.html#a-little-philosophy",
     "title": "3  Goals, Strategies, and Tactics",
     "section": "3.3 A Little Philosophy",
-    "text": "3.3 A Little Philosophy\n\n[Isaiah Berlin][berlin-isaiah] defined [two concepts of liberty][berlin-liberty]\n\nNegative liberty is freedom from, i.e., there’s no rule that says you can’t do something\nPositive liberty is freedom to, i.e., you have the means and ability to pursue a goal\n\nThose with power will often cede negative liberty without supporting positive liberty\nBerlin and others also showed that absolute rights often conflict\n\nE.g., freedom of speech vs. freedom from harassment\n\nEasy to say “find a balance”, but much harder to agree on what that balance is\nReform movements often tie themselves in knots over this\n\nDeny the conflict\nTry to formulate precise rules in advance\n\nTwo kinds of knowledge (Scott, 2020)\n\n*Techne* is hard-and-fast rules, often derived from first principles\n*Metis* “can be acquired only by long practice at similar but rarely identical tasks [and] requires constant adaptation to changing circumstances”\nScientists and programmers want techne; organizational change requires metis",
+    "text": "3.3 A Little Philosophy\n\nIsaiah Berlin defined two concepts of liberty\n\nNegative liberty is freedom from, i.e., there’s no rule that says you can’t do something\nPositive liberty is freedom to, i.e., you have the means and ability to pursue a goal\n\nThose with power will often cede negative liberty without supporting positive liberty\nBerlin and others also showed that absolute rights often conflict\n\nE.g., freedom of speech vs. freedom from harassment\n\nEasy to say “find a balance”, but much harder to agree on what that balance is\nReform movements often tie themselves in knots over this\n\nDeny the conflict\nTry to formulate precise rules in advance\n\nTwo kinds of knowledge (Scott, 2020)\n\n*Techne* is hard-and-fast rules, often derived from first principles\n*Metis* “can be acquired only by long practice at similar but rarely identical tasks [and] requires constant adaptation to changing circumstances”\nScientists and programmers want techne; organizational change requires metis",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Goals, Strategies, and Tactics</span>"
     ]
@@ -144,7 +144,7 @@
     "href": "power/index.html#sabinas-power-map",
     "title": "4  Power",
     "section": "4.3 Sabina’s Power Map",
-    "text": "4.3 Sabina’s Power Map\n\nThe VP of Human Resources is generally supportive of DEI initiatives but doesn’t really understand open source and open science.\nThe VP of Research thinks that “all this diversity stuff” distracts people from “real work.”\nThe Chief Counsel worries about intellectual property loss and the risk of violating data privacy regulations.\nThe Director of IT contributes to open source projects in their spare time, but feels depressed whenever they think about the quality of most scientists’ code.\nThe other two senior data analysts are both supporters of the [FAIR Principles][fair], and believe that data analysis isn’t valued as highly by the company as it should be.\nThe junior data analysts on their teams are mostly concerned about meeting performance targets and polishing their CVs…\n…except for the one self-professed libertarian who believes that white men are now victims of discrimination.",
+    "text": "4.3 Sabina’s Power Map\n\nThe VP of Human Resources is generally supportive of DEI initiatives but doesn’t really understand open source and open science.\nThe VP of Research thinks that “all this diversity stuff” distracts people from “real work.”\nThe Chief Counsel worries about intellectual property loss and the risk of violating data privacy regulations.\nThe Director of IT contributes to open source projects in their spare time, but feels depressed whenever they think about the quality of most scientists’ code.\nThe other two senior data analysts are both supporters of the FAIR Principles, and believe that data analysis isn’t valued as highly by the company as it should be.\nThe junior data analysts on their teams are mostly concerned about meeting performance targets and polishing their CVs…\n…except for the one self-professed libertarian who believes that white men are now victims of discrimination.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Power</span>"
     ]
@@ -672,7 +672,7 @@
     "href": "meetings/index.html#notes",
     "title": "Appendix F — How to Run a Meeting",
     "section": "F.16 Notes",
-    "text": "F.16 Notes\nThis isn’t the only way to run a meeting: different cultures have different conventions, and every group will evolve its own practices. If more than half a dozen people are involved in decision-making, consider adopting [Martha’s Rules][marthas-rules]. If you think you need [Robert’s Rules of Order][roberts-rules], you should probably get some formal training.\n\n\n\n\nBrookfield, S. D., & Preskill, S. (2016). The Discussion Book: 50 Great Ways to Get People Talking. Jossey-Bass.",
+    "text": "F.16 Notes\nThis isn’t the only way to run a meeting: different cultures have different conventions, and every group will evolve its own practices. If more than half a dozen people are involved in decision-making, consider adopting Martha’s Rules. If you think you need Robert’s Rules of Order, you should probably get some formal training.\n\n\n\n\nBrookfield, S. D., & Preskill, S. (2016). The Discussion Book: 50 Great Ways to Get People Talking. Jossey-Bass.",
     "crumbs": [
       "Appendices",
       "<span class='chapter-number'>F</span>  <span class='chapter-title'>How to Run a Meeting</span>"

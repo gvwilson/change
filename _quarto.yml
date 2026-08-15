@@ -4,7 +4,6 @@ project:
 
 book:
   title: "Organizational Change"
-  author: "Greg Wilson"
   repo-url: "https://github.com/gvwilson/change"
   repo-actions: [edit, source, issue]
   chapters:

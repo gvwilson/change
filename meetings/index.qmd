@@ -210,6 +210,6 @@ This isn't the only way to run a meeting:
 different cultures have different conventions,
 and every group will evolve its own practices.
 If more than half a dozen people are involved in decision-making,
-consider adopting [Martha's Rules][marthas-rules].
-If you think you need [Robert's Rules of Order][roberts-rules],
+consider adopting [Martha's Rules](@marthas-rules).
+If you think you need [Robert's Rules of Order](@roberts-rules),
 you should probably get some formal training.
