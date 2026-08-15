@@ -2,7 +2,7 @@
 
 -   [@Kent2022] focuses on what early-career researchers can do
     to improve research culture and practice
--   [@Bauer2015;Bauer2020] introduce {{<g implementation-science "implementation science" >}},
+-   [@Bauer2015;@Bauer2020] introduce {{<g implementation-science "implementation science" >}},
     which looks at how to change society as a whole
 
 ## Change in a Time of Crisis

@@ -1,5 +1,7 @@
 .PHONY: commands site serve check bib clean
 
+BIB=bibliography/references.bib
+LUA=pandoc lua
 LINKS=_extras/links.md
 SRC=$(wildcard *.qmd) $(wildcard */*.qmd)
 
@@ -19,16 +21,23 @@ serve:
 	quarto preview
 
 ## check: check structure, spelling, etc.
-check: check-typos check-links check-site
+check: check-bib check-links check-site check-typos
 
-check-typos:
-	typos ${SRC}
+## check-bib: check bibliography
+check-bib:
+	${LUA} bin/check-bib.lua ${BIB} ${SRC}
 
+## check-links: check Markdown links
 check-links:
-	pandoc lua bin/check-links.lua ${LINKS} ${SRC}
+	${LUA} bin/check-links.lua ${LINKS} ${SRC}
 
+## check-site: check HTML links
 check-site:
 	lychee docs --offline --no-progress
+
+## check-typos: check spelling
+check-typos:
+	typos ${SRC}
 
 ## clean: remove generated and cache files
 clean:
