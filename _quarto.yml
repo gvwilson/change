@@ -30,7 +30,7 @@ filters:
   - bin/links.lua
 
 shortcodes:
-  - bin/g.lua
+  - bin/glossary.lua
   - bin/inc-noh1.lua
 
 format:
