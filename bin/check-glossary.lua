@@ -1,37 +1,38 @@
--- check-links.lua
--- Check that "@key" links in Markdown files match definitions in a links file.
+-- check-glossary.lua
+-- Check that glossary shortcode references in Markdown files match entries
+-- in a glossary file.
 --
--- Usage: lua check-links.lua LINKS_FILE MARKDOWN_FILE...
+-- Usage: lua check-glossary.lua GLOSSARY_FILE MARKDOWN_FILE...
 --
--- The links file contains one definition per line:
---   [link-key]: url
--- Markdown files use those definitions as:
---   [text](@link-key)
+-- The glossary file defines one entry per line as a span with an id:
+--   <span id="key">display text</span>
+-- Markdown files reference those entries with the shortcode:
+--   {{<g key "display text" >}}
 --
--- The script reports links that are used but not defined (along with the file
--- that uses each one) and links that are defined but not used. It exits with
+-- The script reports keys that are used but not defined (along with the file
+-- that uses each one) and keys that are defined but not used. It exits with
 -- a non-zero status if either report is non-empty.
 
 local script_dir = arg[0] and arg[0]:match("^(.*)/") or "."
 package.path = script_dir .. "/?.lua;" .. package.path
 
 local utils = require("utils")
-utils.program = "check-links.lua"
+utils.program = "check-glossary.lua"
 
 -- Returns the defined keys in file order, and a set of those keys.
-local function read_links_file(path)
+local function read_glossary_file(path)
   local order = {}
   local set = {}
-  for key in (utils.read_file(path)):gmatch("%[([%w-]+)%]:%s*%S+") do
+  for key in (utils.read_file(path)):gmatch('<span id="([%w-]+)">') do
     order[#order + 1] = key
     set[key] = true
   end
   return order, set
 end
 
--- Records every "@key" link in content as used in path.
-local function add_used_links(content, path, set, files)
-  for key in content:gmatch("%]%(@([%w-]+)%)") do
+-- Records every glossary key referenced by a "g" shortcode in content.
+local function add_used_keys(content, path, set, files)
+  for key in content:gmatch("{{<%s*g%s+([%w-]+)") do
     set[key] = true
     files[key] = files[key] or {}
     files[key][path] = true
@@ -43,16 +44,16 @@ local function read_markdown_files(paths)
   local set = {}
   local files = {}
   for _, path in ipairs(paths) do
-    add_used_links(utils.read_file(path), path, set, files)
+    add_used_keys(utils.read_file(path), path, set, files)
   end
   return set, files
 end
 
 if #arg < 2 then
-  utils.fail("usage: lua check-links.lua LINKS_FILE MARKDOWN_FILE...")
+  utils.fail("usage: lua check-glossary.lua GLOSSARY_FILE MARKDOWN_FILE...")
 end
 
-local defined_order, defined_set = read_links_file(arg[1])
+local defined_order, defined_set = read_glossary_file(arg[1])
 
 local markdown_files = {}
 for i = 2, #arg do

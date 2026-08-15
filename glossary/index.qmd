@@ -77,7 +77,7 @@
 :   A specific action that supports a larger strategy.
 
 <span id="techne">techne</span>
-:   Inflexible but universal rules, often derived from first principles.
+:   Inflexible but universal rules, often derived from {{<g first-principles "first principles" >}}.
 
 <span id="winning-coalition">winning coalition</span>
 :   Those people in a group who are on the winning side of decision.

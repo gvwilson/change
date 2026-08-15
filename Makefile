@@ -3,6 +3,7 @@
 BIB=bibliography/references.bib
 LUA=pandoc lua
 LINKS=_extras/links.md
+GLOSSARY=glossary/index.qmd
 SRC=$(wildcard *.qmd) $(wildcard */*.qmd)
 
 ## commands: show available commands (*)
@@ -21,7 +22,7 @@ serve:
 	quarto preview
 
 ## check: check structure, spelling, etc.
-check: check-bib check-links check-site check-typos
+check: check-bib check-links check-glossary check-typos
 
 ## check-bib: check bibliography
 check-bib:
@@ -31,9 +32,9 @@ check-bib:
 check-links:
 	${LUA} bin/check-links.lua ${LINKS} ${SRC}
 
-## check-site: check HTML links
-check-site:
-	lychee docs --offline --no-progress
+## check-glossary: check glossary references
+check-glossary:
+	${LUA} bin/check-glossary.lua ${GLOSSARY} ${SRC}
 
 ## check-typos: check spelling
 check-typos:
