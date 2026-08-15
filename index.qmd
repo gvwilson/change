@@ -1,22 +1,15 @@
----
-title: "Organizational Change"
----
+# Overview {.unnumbered}
+
 This workshop is a short introduction to organizational change
 for people with backgrounds in research.
-All of the material is available under an open license,
+All of the material is available under an [open license](license/index.qmd),
 and contributions through our [repository](@repo) are welcome.
-All contributors are required to respect our Code of Conduct.
+All contributors are required to respect our [Code of Conduct](conduct/index.qmd).
 
-[*Greg Wilson*](@wilson-greg) is a programmer, author, and educator based in Toronto.
+[Greg Wilson](@wilson-greg) is a programmer, author, and educator based in Toronto.
 He was the co-founder and first Executive Director of Software Carpentry
 and received ACM SIGSOFT's Influential Educator Award in 2020.
 
-<p class="center">
-  <em>
-    start where you are
-    &middot;
-    use what you have
-    &middot;
-    help who you can
-  </em>
-</p>
+::: {.center}
+*start where you are &middot; use what you have &middot; help who you can*
+:::
