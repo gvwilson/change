@@ -22,6 +22,10 @@ site:
 serve:
 	quarto preview
 
+## publish: publish the site
+publish:
+	${LUA} ${BIN}/publish.lua docs ${OUT} ${EXTRA}
+
 ## check: check structure, spelling, etc.
 check: check-bib check-links check-glossary check-typos
 
