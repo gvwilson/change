@@ -24,7 +24,7 @@ book:
     - bonus/index.qmd
 
 bibliography: bibliography/references.bib
-csl: bibliography/apa.csl
+csl: bibliography/mccole.csl
 
 filters:
   - bin/links.lua
