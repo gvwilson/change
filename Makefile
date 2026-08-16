@@ -2,10 +2,15 @@
 
 BIB=bibliography/references.bib
 BIN=_bin
+DOCS=docs
 LUA=pandoc lua
 LINKS=_extras/links.md
 GLOSSARY=glossary/index.qmd
-SRC=$(wildcard *.qmd) $(wildcard */*.qmd)
+MD_SRC=$(wildcard *.qmd) $(wildcard */*.qmd)
+QUARTO=quarto
+SLIDES_SRC=$(wildcard slides.qmd) $(wildcard */slides.qmd)
+SLIDES_DST=$(patsubst %.qmd,${DOCS}/%.html,${SLIDES_SRC})
+SLIDES_FLAGS=-V theme=simple -f markdown -t revealjs -s --citeproc --bibliography=${BIB} --csl=_extras/slides.csl
 
 ## commands: show available commands (*)
 commands:
@@ -15,35 +20,42 @@ commands:
 
 ## site: render HTML with Quarto
 site:
-	quarto render
-	touch docs/.nojekyll
+	${QUARTO} render
+	touch ${DOCS}/.nojekyll
 
 ## serve: preview the site locally
 serve:
-	quarto preview
+	${QUARTO} preview
 
 ## publish: publish the site
 publish:
 	${LUA} ${BIN}/publish.lua docs ${OUT} ${EXTRA}
+
+## slides: rebuild just the slides
+slides: ${SLIDES_DST}
+
+${DOCS}/%.html: %.qmd
+	mkdir -p $(@D)
+	pandoc $< ${SLIDES_FLAGS} -o $@
 
 ## check: check structure, spelling, etc.
 check: check-bib check-links check-glossary check-typos
 
 ## check-bib: check bibliography
 check-bib:
-	${LUA} ${BIN}/check-bib.lua ${BIB} ${SRC}
+	${LUA} ${BIN}/check-bib.lua ${BIB} ${MD_SRC}
 
 ## check-links: check Markdown links
 check-links:
-	${LUA} ${BIN}/check-links.lua ${LINKS} ${SRC}
+	${LUA} ${BIN}/check-links.lua ${LINKS} ${MD_SRC}
 
 ## check-glossary: check glossary references
 check-glossary:
-	${LUA} ${BIN}/check-glossary.lua ${GLOSSARY} ${SRC}
+	${LUA} ${BIN}/check-glossary.lua ${GLOSSARY} ${MD_SRC}
 
 ## check-typos: check spelling
 check-typos:
-	typos -c _typos.toml ${SRC}
+	typos -c _typos.toml ${MD_SRC}
 
 ## clean: remove generated and cache files
 clean:
