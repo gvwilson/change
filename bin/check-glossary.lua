@@ -11,8 +11,9 @@
 --
 -- The script reports keys that are used but not defined (along with the file
 -- that uses each one), keys that are defined but not used, and entries whose
--- display text is out of alphabetical order. It exits with a non-zero status
--- if any report is non-empty.
+-- display text is out of alphabetical order. It also reports keys that are
+-- referred to more than once (along with the files they occur in). It exits
+-- with a non-zero status if any report is non-empty.
 
 local script_dir = arg[0] and arg[0]:match("^(.*)/") or "."
 package.path = script_dir .. "/?.lua;" .. package.path
@@ -39,11 +40,12 @@ local function add_used_keys(content, path, set, files)
   for key in content:gmatch("{{<%s*g%s+([%w_-]+)") do
     set[key] = true
     files[key] = files[key] or {}
-    files[key][path] = true
+    files[key][path] = (files[key][path] or 0) + 1
   end
 end
 
--- Returns a set of used keys and a map of each key to the files using it.
+-- Returns a set of used keys and a map of each key to the files using it and
+-- how many times each file uses it.
 local function read_markdown_files(paths)
   local set = {}
   local files = {}
@@ -79,6 +81,38 @@ local function report_order(texts, label)
   return true
 end
 
+-- Returns the keys referred to more than once, mapped to the files they occur
+-- in and how many times each file refers to them.
+local function duplicated_keys(files)
+  local result = {}
+  for key, paths in pairs(files) do
+    local total = 0
+    for _, count in pairs(paths) do
+      total = total + count
+    end
+    if total > 1 then
+      result[key] = paths
+    end
+  end
+  return result
+end
+
+-- Report keys referred to more than once under 'label'.
+-- Return true if any were found.
+local function report_duplicated(files, label)
+  local duplicated = duplicated_keys(files)
+  if next(duplicated) == nil then
+    return false
+  end
+  print(label)
+  for _, key in ipairs(utils.sorted_keys(duplicated)) do
+    for _, path in ipairs(utils.sorted_keys(duplicated[key])) do
+      print(("  %s: %s"):format(key, path))
+    end
+  end
+  return true
+end
+
 if #arg < 2 then
   utils.fail("usage: lua check-glossary.lua GLOSSARY_FILE MARKDOWN_FILE...")
 end
@@ -93,6 +127,9 @@ local used_set, used_files = read_markdown_files(markdown_files)
 
 local problems = false
 if utils.report_missing(defined_set, used_files, "used but not defined:") then
+  problems = true
+end
+if report_duplicated(used_files, "duplicated redefinitions:") then
   problems = true
 end
 if utils.report_unused(defined_order, used_set, "defined but not used:") then
