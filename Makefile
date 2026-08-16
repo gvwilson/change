@@ -1,6 +1,7 @@
 .PHONY: commands site serve check bib clean
 
 BIB=bibliography/references.bib
+BIN=_bin
 LUA=pandoc lua
 LINKS=_extras/links.md
 GLOSSARY=glossary/index.qmd
@@ -26,19 +27,19 @@ check: check-bib check-links check-glossary check-typos
 
 ## check-bib: check bibliography
 check-bib:
-	${LUA} bin/check-bib.lua ${BIB} ${SRC}
+	${LUA} ${BIN}/check-bib.lua ${BIB} ${SRC}
 
 ## check-links: check Markdown links
 check-links:
-	${LUA} bin/check-links.lua ${LINKS} ${SRC}
+	${LUA} ${BIN}/check-links.lua ${LINKS} ${SRC}
 
 ## check-glossary: check glossary references
 check-glossary:
-	${LUA} bin/check-glossary.lua ${GLOSSARY} ${SRC}
+	${LUA} ${BIN}/check-glossary.lua ${GLOSSARY} ${SRC}
 
 ## check-typos: check spelling
 check-typos:
-	typos ${SRC}
+	typos -c _typos.toml ${SRC}
 
 ## clean: remove generated and cache files
 clean:

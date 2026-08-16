@@ -27,11 +27,11 @@ bibliography: bibliography/references.bib
 csl: bibliography/mccole.csl
 
 filters:
-  - bin/links.lua
+  - _bin/links.lua
 
 shortcodes:
-  - bin/glossary.lua
-  - bin/inc-noh1.lua
+  - _bin/glossary.lua
+  - _bin/inc-noh1.lua
 
 format:
   html:
