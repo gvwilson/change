@@ -72,7 +72,7 @@ check-glossary:
 
 ## check-typos: check spelling
 check-typos:
-	typos -c _typos.toml ${MD_SRC}
+	typos -c _misc/typos.toml ${MD_SRC}
 
 ## clean: remove generated and cache files
 clean:
