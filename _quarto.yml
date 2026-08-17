@@ -39,3 +39,4 @@ format:
     link-citations: true
     theme: cosmo
     toc: true
+  pdf: default

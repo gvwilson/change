@@ -1,4 +1,4 @@
-.PHONY: commands site serve check bib clean
+.PHONY: commands site serve check bib clean pdf
 
 BIB=bibliography/references.bib
 BIN=_bin
@@ -20,8 +20,13 @@ commands:
 
 ## site: render HTML with Quarto
 site:
-	${QUARTO} render
+	${QUARTO} render --to html
 	touch ${DOCS}/.nojekyll
+
+## pdf: render PDF with Quarto
+pdf:
+	mkdir -p pdf
+	${QUARTO} render --to pdf --output-dir=pdf
 
 ## serve: preview the site locally
 serve:
@@ -55,7 +60,7 @@ check-glossary:
 
 ## check-typos: check spelling
 check-typos:
-	typos -c _misc/typos.toml ${MD_SRC}
+	typos -c _typos.toml ${MD_SRC}
 
 ## clean: remove generated and cache files
 clean:
