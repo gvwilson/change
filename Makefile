@@ -10,7 +10,17 @@ MD_SRC=$(wildcard *.qmd) $(wildcard */*.qmd)
 QUARTO=quarto
 SLIDES_SRC=$(wildcard slides.qmd) $(wildcard */slides.qmd)
 SLIDES_DST=$(patsubst %.qmd,${DOCS}/%.html,${SLIDES_SRC})
-SLIDES_FLAGS=-V theme=simple -f markdown -t revealjs -s --citeproc --bibliography=${BIB} --csl=_extras/slides.csl
+SLIDES_FLAGS=\
+  -f markdown \
+  -t revealjs \
+  -s \
+  -M suppress-bibliography=true \
+  -V theme=simple \
+  -V slideNumber=true \
+  --citeproc \
+  --bibliography=${BIB} \
+  --csl=_extras/slides.csl \
+  --css=assets/slides.css
 
 ## commands: show available commands (*)
 commands:
@@ -42,6 +52,8 @@ slides: ${SLIDES_DST}
 ${DOCS}/%.html: %.qmd
 	mkdir -p $(@D)
 	pandoc $< ${SLIDES_FLAGS} -o $@
+	cp assets/slides.css ${DOCS}/assets/slides.css
+	sed -i '' '/simple\.css/d' $@
 
 ## check: check structure, spelling, etc.
 check: check-bib check-links check-glossary check-typos
