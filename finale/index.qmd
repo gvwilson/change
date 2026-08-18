@@ -17,14 +17,26 @@ subtitle: "a few more tips and a modest proposal"
 
 ## What to Read Next
 
-<div class="row">
-  <div class="col-2"><img src="beckerman.jpg" alt="Beckerman: The Quiet Before"></div>
-  <div class="col-2"><img src="brookfield.jpg" alt="Brookfield and Preskill: The Discussion Book"></div>
-  <div class="col-2"><img src="brown.jpg" alt="Brown: Building Powerful Community Organizations"></div>
-  <div class="col-2"><img src="bueno.jpg" alt="Bueno de Mesquita: The Dictator's Handbook"></div>
-  <div class="col-2"><img src="lubrano.jpg" alt="Lubrano: Don't Talk About Politics"></div>
-  <div class="col-2"><img src="manns.jpg" alt="Manns and Rising: Fearless Change"></div>
-</div>
+:::: {.columns}
+::: {.column width="16%"}
+![](beckerman.jpg){fig-alt="Beckerman: The Quiet Before" fig-cap=""}
+:::
+::: {.column width="16%"}
+![](brookfield.jpg){fig-alt="Brookfield and Preskill: The Discussion Book" fig-cap=""}
+:::
+::: {.column width="16%"}
+![](brown.jpg){fig-alt="ig=c{[Brown: Building Powerful Community Organizations" fig-cap=""}
+:::
+::: {.column width="16%"}
+![](bueno.jpg){fig-alt="Bueno de Mesquita: The Dictator's Handbook" fig-cap=""}
+:::
+::: {.column width="16%"}
+![](lubrano.jpg){fig-alt="Lubrano: Don't Talk About Politics" fig-cap=""}
+:::
+::: {.column width="16%"}
+![](manns.jpg){fig-alt="Manns and Rising: Fearless Change" fig-cap=""}
+:::
+::::
 
 ## Retrospective
 
