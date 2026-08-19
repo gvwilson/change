@@ -4,7 +4,7 @@ BIB=bibliography/references.bib
 BIN=_bin
 DOCS=docs
 LUA=pandoc lua
-LINKS=_extras/links.md
+LINKS=mccole/links.md
 GLOSSARY=glossary/index.qmd
 MD_SRC=$(wildcard *.qmd) $(wildcard */*.qmd)
 QUARTO=quarto
@@ -19,8 +19,8 @@ SLIDES_FLAGS=\
   -V slideNumber=true \
   --citeproc \
   --bibliography=${BIB} \
-  --csl=_extras/slides.csl \
-  --css=assets/slides.css
+  --csl=mccole/slides.csl \
+  --css=mccole/slides.css
 
 ## commands: show available commands (*)
 commands:
@@ -52,7 +52,7 @@ slides: ${SLIDES_DST}
 ${DOCS}/%.html: %.qmd
 	mkdir -p $(@D)
 	pandoc $< ${SLIDES_FLAGS} -o $@
-	cp assets/slides.css ${DOCS}/assets/slides.css
+	cp mccole/slides.css ${DOCS}/mccole/slides.css
 	sed -i '' '/simple\.css/d' $@
 
 ## check: check structure, spelling, etc.
@@ -72,7 +72,7 @@ check-glossary:
 
 ## check-typos: check spelling
 check-typos:
-	typos -c _misc/typos.toml ${MD_SRC}
+	typos -c mccole/typos.toml ${MD_SRC}
 
 ## clean: remove generated and cache files
 clean:

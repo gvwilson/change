@@ -24,19 +24,20 @@ book:
     - bonus/index.qmd
 
 bibliography: bibliography/references.bib
-csl: _extras/book.csl
+csl: mccole/book.csl
 
 filters:
-  - _bin/links.lua
+  - mccole/links.lua
 
 shortcodes:
-  - _bin/glossary.lua
-  - _bin/inc-noh1.lua
+  - mccole/glossary.lua
+  - mccole/inc-noh1.lua
 
 format:
   html:
-    css: assets/book.css
+    css: mccole/book.css
     link-citations: true
     theme: cosmo
     toc: true
-  pdf: default
+  pdf:
+    documentclass: mccole/krantz
