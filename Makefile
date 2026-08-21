@@ -1,7 +1,7 @@
 .PHONY: commands site serve check bib clean pdf
 
 BIB=bibliography/references.bib
-BIN=_bin
+BIN=mccole
 DOCS=docs
 LUA=pandoc lua
 LINKS=mccole/links.md
