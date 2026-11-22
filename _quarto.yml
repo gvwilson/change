@@ -21,5 +21,3 @@ book:
     - glossary/index.qmd
     - meetings/index.qmd
     - bonus/index.qmd
-
-bibliography: bibliography/references.bib

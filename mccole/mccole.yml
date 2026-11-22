@@ -9,6 +9,7 @@ project:
   type: book
   output-dir: docs
 
+bibliography: bibliography/references.bib
 csl: mccole/book.csl
 
 filters:
