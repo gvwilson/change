@@ -17,8 +17,12 @@ filters:
 
 shortcodes:
   - mccole/exercise.lua
+  - mccole/fixme.lua
   - mccole/glossary.lua
+  - mccole/i.lua
+  - mccole/inc.lua
   - mccole/inc-noh1.lua
+  - mccole/issue.lua
 
 format:
   html:
