@@ -1,0 +1,28 @@
+# Shared definitions for Mccole Quarto projects.
+# Include in the project's _quarto.yml with:
+#
+#     metadata-files:
+#       - mccole/mccole.yml
+
+
+project:
+  type: book
+  output-dir: docs
+
+csl: mccole/book.csl
+
+filters:
+  - mccole/links.lua
+
+shortcodes:
+  - mccole/glossary.lua
+  - mccole/inc-noh1.lua
+
+format:
+  html:
+    css: mccole/book.css
+    link-citations: true
+    theme: cosmo
+    toc: true
+  pdf:
+    documentclass: scrbook

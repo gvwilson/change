@@ -9,9 +9,8 @@
 
 return {
   ["inc-noh1"] = function(args, kwargs, meta)
-    local rel = pandoc.utils.stringify(args[1])
-    local root = quarto.project.directory or "."
-    local f = assert(io.open(root .. "/" .. rel, "r"), "inc-noh1: cannot open " .. rel)
+    local rel = args[1]
+    local f = assert(io.open((quarto.project.directory or ".") .. "/" .. rel, "r"), "inc-noh1: cannot open " .. rel)
     local content = f:read("*all")
     f:close()
     content = content:gsub("^%s*#%s+[^\n]*\n", "", 1)

@@ -1,6 +1,5 @@
-project:
-  type: book
-  output-dir: docs
+metadata-files:
+  - mccole/mccole.yml
 
 book:
   title: "Organizational Change"
@@ -24,20 +23,3 @@ book:
     - bonus/index.qmd
 
 bibliography: bibliography/references.bib
-csl: mccole/book.csl
-
-filters:
-  - mccole/links.lua
-
-shortcodes:
-  - mccole/glossary.lua
-  - mccole/inc-noh1.lua
-
-format:
-  html:
-    css: mccole/book.css
-    link-citations: true
-    theme: cosmo
-    toc: true
-  pdf:
-    documentclass: mccole/krantz
