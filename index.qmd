@@ -1,5 +1,3 @@
-# Overview {.unnumbered}
-
 This workshop is a short introduction to organizational change
 for people with backgrounds in research.
 All of the material is available under an [open license](license/index.qmd),
