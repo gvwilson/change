@@ -18,7 +18,7 @@ subtitle: "where and how to begin"
     -   Most people neither support nor oppose most innovations
     -   Most changes eventually languish even if they aren't officially abandoned
 
-:::: {.callout-note}
+::: {.note}
 
 There are other frameworks for thinking about organizational change.
 For example, the one presented in [@Heath2010]
@@ -29,17 +29,17 @@ Its three key points are to describe a coherent destination,
 appeal to emotion to motivate people,
 and map out a clear path.
 
-::::
+:::
 
 ## What to Do First
 
-<div class="callout" markdown="1">
+::: {.note}
 
 Before you do anything else, find out who has already tried what.
 You may not be the first person to try to make this kind of change,
 and an honest retrospective is worth a cup of coffee.
 
-</div>
+:::
 
 1.  *Use existing social ties*
     -   Successful movements are built on pre-existing relationships [@Beckerman2022]
@@ -56,7 +56,7 @@ and an honest retrospective is worth a cup of coffee.
     -   Remember, most innovations languish or are met with {{<g passive-resistance "passive resistance" >}}
         [@Scott1987]
 
-<div class="callout" markdown="1">
+::: {.note}
 
 Avoid premature commitment to metrics,
 and more importantly,
@@ -65,7 +65,7 @@ It is more useful to agree on
 who will be responsible for evaluating the success of the change,
 which can also be a way to make someone an ally.
 
-</div>
+:::
 
 ## Who to Convince First
 

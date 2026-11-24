@@ -15,7 +15,7 @@ Knowing how to run a meeting efficiently is a core skill for anyone who wants to
 The most important rules for making meetings efficient are not secret,
 but are rarely followed.
 
-:::: {.callout-note}
+::: {.note}
 
 Knowing how to take part in someone else's meeting is just as important,
 but gets far less attention:
@@ -23,7 +23,7 @@ as a colleague once said,
 everyone offers leadership training,
 nobody offers followership training.
 
-::::
+:::
 
 ## Decide if there actually needs to be a meeting
 
@@ -45,12 +45,12 @@ so mixing them usually results in an unproductive muddle.
 Instead,
 schedule single-purpose meetings and choose discussion techniques appropriate to each.
 
-:::: {.callout-note}
+::: {.note}
 
 [@Brookfield2016] is a catalog of fifty different ways
 that people can share information and make decisions.
 
-::::
+:::
 
 ## Write an agenda
 

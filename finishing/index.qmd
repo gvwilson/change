@@ -14,7 +14,7 @@ subtitle: "closing the deal and what happens afterward"
     -   And compromise isn't always possible
     -   So we must find ways to form a winning coalition
 
-:::: {.callout-note}
+::: {.note}
 
 Whispering in the director's ear might work in the short run,
 but people will resent it,
@@ -25,7 +25,7 @@ Only do it if the director is trusted by people both above and below them,
 *and* you have a good relationship with them,
 *and* the changes aren't controversial.
 
-::::
+:::
 
 ## Closing the Deal
 
@@ -42,13 +42,13 @@ Only do it if the director is trusted by people both above and below them,
     -   Two steps forward and one step back is still one step forward
 -   If all else fails, settle for *a trial run*
 
-:::: {.callout-note}
+::: {.note}
 
 Any new way of working initially slows people down.
 Acknowledging this makes you more credible,
 which in turn makes people more likely to stick with you through the dip.
 
-::::
+:::
 
 ## Changing Minds
 

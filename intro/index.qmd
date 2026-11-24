@@ -15,14 +15,14 @@ subtitle: "what this training does and doesn't cover"
 -   Also work better if done synchronously
     -   But may be done asynchronously if a workshop runs out of time
 
-:::: {.callout-note}
+::: {.note}
 
 Sessions are not recorded,
 and we request that you do not share notes or exercise results
 with people who did not take part
 without the prior, explicit permission of all attendees.
 
-::::
+:::
 
 ## Learner Persona
 

@@ -21,9 +21,9 @@ subtitle: "deciding what to do and how to do it"
     -   Prescribed (top-down) vs. emergent (bottom-up)
     -   Environments and structures (the system) vs. individuals
 
-<div class="center">
-  <img src="./borrego_henderson_change_strategies.svg" alt="Borrego & Henderson change strategies">
-</div>
+::: {.center}
+![Borrego & Henderson change strategies](./borrego_henderson_change_strategies.svg)
+:::
 
 ## A Little Philosophy
 

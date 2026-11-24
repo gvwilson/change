@@ -17,26 +17,26 @@ subtitle: "a few more tips and a modest proposal"
 
 ## What to Read Next
 
-:::: {.columns}
-::: {.column width="16%"}
+::: {.row}
+::: {.col-2}
 ![](beckerman.jpg){fig-alt="Beckerman: The Quiet Before" fig-cap=""}
 :::
-::: {.column width="16%"}
+::: {.col-2}
 ![](brookfield.jpg){fig-alt="Brookfield and Preskill: The Discussion Book" fig-cap=""}
 :::
-::: {.column width="16%"}
+::: {.col-2}
 ![](brown.jpg){fig-alt="ig=c{[Brown: Building Powerful Community Organizations" fig-cap=""}
 :::
-::: {.column width="16%"}
+::: {.col-2}
 ![](bueno.jpg){fig-alt="Bueno de Mesquita: The Dictator's Handbook" fig-cap=""}
 :::
-::: {.column width="16%"}
+::: {.col-2}
 ![](lubrano.jpg){fig-alt="Lubrano: Don't Talk About Politics" fig-cap=""}
 :::
-::: {.column width="16%"}
+::: {.col-2}
 ![](manns.jpg){fig-alt="Manns and Rising: Fearless Change" fig-cap=""}
 :::
-::::
+:::
 
 ## Retrospective
 

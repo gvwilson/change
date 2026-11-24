@@ -28,11 +28,11 @@ subtitle: "figuring out who has it and how to influence them"
     3.  Add people who can directly influence the people you identified in step 1.
     4.  Repeat step 3 for the people you just added until you are part of the diagram.
 
-<div class="center">
-  <img src="./power_map.svg" alt="power map">
-</div>
+::: {.center}
+![power map](./power_map.svg)
+:::
 
-:::: {.callout-note}
+::: {.note}
 
 Many people find power mapping uncomfortable,
 particularly if their map includes people who are also in the room.
@@ -50,7 +50,7 @@ While Edmund Burke never actually said,
 "The only thing necessary for evil to triumph is for good men to do nothing,"
 we owe it to those who fought to make our lives better to do the same.
 
-::::
+:::
 
 ## Sabina's Power Map
 
