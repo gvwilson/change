@@ -180,6 +180,15 @@ pre {
   margin-bottom: 0;
 }
 
+/* Blockquotes */
+blockquote cite {
+  display: block;
+}
+
+blockquote cite::before {
+  content: "— ";
+}
+
 /* Flex grid (12-column) */
 .row {
   display: flex;

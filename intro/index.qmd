@@ -4,8 +4,7 @@ subtitle: "what this training does and doesn't cover"
 # Introduction
 
 > Most people would rather fail than change.
->
-> — Robert Wilson
+> <cite>Robert Wilson</cite>
 
 -   But change *does* happen, follows patterns, and can be guided
 -   This workshop introduces a few basic ideas and tools
