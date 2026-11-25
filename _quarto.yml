@@ -4,7 +4,6 @@ metadata-files:
 book:
   title: "Organizational Change"
   repo-url: "https://github.com/gvwilson/change"
-  repo-actions: [edit, source, issue]
   chapters:
     - index.qmd
     - intro/index.qmd
