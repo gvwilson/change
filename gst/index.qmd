@@ -22,7 +22,7 @@ subtitle: "deciding what to do and how to do it"
     -   Environments and structures (the system) vs. individuals
 
 ::: {.center}
-![Borrego & Henderson change strategies](./borrego_henderson_change_strategies.svg)
+![Borrego & Henderson change strategies](./borrego_henderson_change_strategies.svg){fig-alt="four change strategies proposed by Borrego and Henderson"}
 :::
 
 ## A Little Philosophy

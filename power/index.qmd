@@ -29,7 +29,7 @@ subtitle: "figuring out who has it and how to influence them"
     4.  Repeat step 3 for the people you just added until you are part of the diagram.
 
 ::: {.center}
-![power map](./power_map.svg)
+![power map](./power_map.svg){fig-alt="example power map"}
 :::
 
 ::: {.note}
