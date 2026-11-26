@@ -199,6 +199,14 @@ Scott, James C. 1987. <em><span class="nocase">Weapons of the Weak: Everyday For
     <a class="pager-link next" href="../finishing/index.html">Finishing →</a>
   </nav>
 </footer>
+<script>
+document.addEventListener('click', function (e) {
+  var link = e.target.closest && e.target.closest('a');
+  document.querySelectorAll('details.topnav-dropdown[open]').forEach(function (d) {
+    if (!d.contains(e.target) || (link && d.contains(link))) d.removeAttribute('open');
+  });
+});
+</script>
 
 
 </body></html>

@@ -112,6 +112,14 @@ Bueno de Mesquita, Bruce, and Alastair Smith. 2022. <em><span class="nocase">The
     <a class="pager-link next" href="../starting/index.html">Starting →</a>
   </nav>
 </footer>
+<script>
+document.addEventListener('click', function (e) {
+  var link = e.target.closest && e.target.closest('a');
+  document.querySelectorAll('details.topnav-dropdown[open]').forEach(function (d) {
+    if (!d.contains(e.target) || (link && d.contains(link))) d.removeAttribute('open');
+  });
+});
+</script>
 
 
 </body></html>
